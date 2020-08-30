@@ -1,5 +1,7 @@
-<p align="center"><h1>😍😎 Codemoji 🙈🥧</h1><br/>
-Use emoji in your code without handling Unicode!</p>
+<p>
+<h1 align="center">😍😎 Codemoji 🙈🥧</h1>
+<p align="center">Use emoji in your code without handling Unicode :smile: !</p>
+</p>
 
 ## What ❓
 
