@@ -3,7 +3,7 @@
 All emojis are listed in [this page](https://unicode.org/emoji/charts/full-emoji-list.html).
 You should refer to the "Code" and "CLDR Short Name" columns of the list (see the following picture).
 
-<p align="center"><img alt="unicode and emoji name" src=""></p>
+<p align="center"><img alt="unicode and emoji name" src="./unicode_and_emoji_name.png"></p>
 
 ### Name and value rules
 
