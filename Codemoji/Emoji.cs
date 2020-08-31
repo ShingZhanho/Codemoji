@@ -11,7 +11,16 @@ namespace Codemoji {
         /// <param name="names">Names of emojis</param>
         /// <returns>Corresponding emojis, if emoji not found, it will be automatically skipped.</returns>
         public static string Use(params string[] names) {
-            var returnString = "";
+            return Use(options:null, names);
+        }
+
+        public static string Use(EmojiDictionary emojiDictionary, params string[] names) {
+            return Use(new EmojiOptions(emojiDictionary), names);
+        }
+
+        public static string Use(EmojiOptions options, params string[] names) {
+            string returnString = "";
+            _ = (options is null) ? new EmojiOptions() : options;
 
             foreach (var name in names) {
                 var unicode = Resources.ResourceManager.GetString($"emoji_{name}");
