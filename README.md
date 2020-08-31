@@ -1,5 +1,5 @@
-<p>
-<h1 align="center">😍😎 Codemoji 🙈🥧</h1>
+<p align="center">
+<img alt="Codemoji Logo" src="./CodemojiLogoBanner.png"/>
 <p align="center">Use emoji in your code without handling Unicode :smile: !</p>
 </p>
 
