@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Http.Headers;
 using System.Text.RegularExpressions;
 using Codemoji.Properties;
 
@@ -19,13 +20,22 @@ namespace Codemoji {
         }
 
         public static string Use(EmojiOptions options, params string[] names) {
-            string returnString = "";
-            _ = (options is null) ? new EmojiOptions() : options;
+            string returnString = null;
+            var _options = options ?? new EmojiOptions();
 
             foreach (var name in names) {
-                var unicode = Resources.ResourceManager.GetString($"emoji_{name}");
-                if (unicode is null) continue; // skip if null
+                var unicode = Resources.ResourceManager.GetString(_options.UseCustomNames
+                    ? $"emoji_{_options.Dictionary.GetOriginalName(name)}" // Get original name if dictionary exists
+                    : $"emoji_{name}"); // Get from resources
+                if (unicode is null) {
+                    if (_options.UseCustomNames) { // Name not found in dictionary
+                        unicode = Resources.ResourceManager.GetString($"emoji_{name}");
+                        if (unicode is null) continue; // Still not exist, skip
+                    } 
+                    else continue; // If no dictionary and name not found, skip
+                }
                 
+                // Encode each 8-digit unicode
                 foreach (var codePoint in unicode.Split(',')) {
                     if (codePoint.Length != 8) continue; // Code pont must be in 8 digits
                     returnString += ConvertFromCodePoint(codePoint);
