@@ -9,7 +9,7 @@ namespace NUnitTestProject {
 
         [Test]
         public void EmojiUse_SingleValidName_Emoji(
-            [Values("grinning_face")]string name) {
+            [Values("grinning_face", "upside_down_face", "thinking_face")]string name) {
             // Acts
             var emoji = Emoji.Use(name);
             
@@ -20,7 +20,7 @@ namespace NUnitTestProject {
         
         [Test]
         public void EmojiUse_SingleInvalidName_Null(
-            [Values("invalid_name")] string invalidName) {
+            [Values("invalid_name", "hello")] string invalidName) {
             // Acts
             var nullEmoji = Emoji.Use(invalidName);
             
