@@ -118,6 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="emoji_grinning_face" xml:space="preserve">
-    <value>\u1F600</value>
+    <value>0001f600</value>
   </data>
 </root>

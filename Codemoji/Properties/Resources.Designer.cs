@@ -61,7 +61,7 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to \u1F600.
+        ///   Looks up a localized string similar to 0001f600.
         /// </summary>
         internal static string emoji_grinning_face {
             get {
