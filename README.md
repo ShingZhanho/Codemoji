@@ -55,3 +55,7 @@ var dict = new EmojiDictionary("./path/to/your/file.txt");
 // Use your naming rules
 Console.WriteLine("Now I feels really great! {0}", Emoji.Use(dict, "tick_symbol"));
 ```
+
+## You said you want to contribute? 😍
+
+Thank you 😘! If you are adding emojis to resources file, please visit [this page](./Contribute/AddingEmojis.md) first.
