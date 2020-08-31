@@ -33,10 +33,17 @@ Console.WriteLine("Number emojis: {0}", Emoji.Use("one", "two", "three"));
 
 ## 🤮 The names you provided suck, I want to use my own names
 
-No problem 😋! Create a plain text file, add something like these:
+No problem 😋! Create a plain text file, add something with the following format:
 
-```text
+```
+{original_name}>{your_cool_name}
+```
+
+like:
+
+```
 {heavy_check_mark}>{tick_symbol}
+{smile}>{face_i_really_dont_like}
 ```
 
 And in your code:
