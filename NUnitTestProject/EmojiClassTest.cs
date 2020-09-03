@@ -1,3 +1,4 @@
+using System;
 using NUnit.Framework;
 using Codemoji;
 
@@ -9,13 +10,13 @@ namespace NUnitTestProject {
 
         [Test]
         public void EmojiUse_SingleValidName_Emoji(
-            [Values("grinning_face", "upside_down_face", "thinking_face")]string name) {
+            [Values("grinning_face", "upside_down_face", "eye_in_speech_bubble")]string name) {
             // Acts
             var emoji = Emoji.Use(name);
+            Console.WriteLine(emoji);
             
             // Asserts
             Assert.IsNotNull(emoji);
-            Assert.AreEqual(2, emoji.Length);
         }
         
         [Test]

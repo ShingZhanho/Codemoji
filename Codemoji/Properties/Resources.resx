@@ -1,552 +1,1977 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<root>
-  <!-- 
-    Microsoft ResX Schema 
-    
-    Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
-    associated with the data types.
-    
-    Example:
-    
-    ... ado.net/XML headers & schema ...
-    <resheader name="resmimetype">text/microsoft-resx</resheader>
-    <resheader name="version">2.0</resheader>
-    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-        <value>[base64 mime encoded serialized .NET Framework object]</value>
-    </data>
-    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-        <comment>This is a comment</comment>
-    </data>
-                
-    There are any number of "resheader" rows that contain simple 
-    name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
-    mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
-    read any of the formats listed below.
-    
-    mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 encoding.
-    
-    mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-            : and then encoded with base64 encoding.
 
-    mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
-            : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="emoji_grinning_face" xml:space="preserve">
-    <value>0001F600</value>
-  </data>
-  <data name="emoji_grinning_face_big_eyes" xml:space="preserve">
-    <value>0001f603</value>
-  </data>
-  <data name="emoji_grinning_face_smiling_eyes" xml:space="preserve">
-    <value>0001f604</value>
-  </data>
-  <data name="emoji_grinning_squinting_face" xml:space="preserve">
-    <value>0001F606</value>
-  </data>
-  <data name="emoji_grinning_face_sweat" xml:space="preserve">
-    <value>0001f605</value>
-  </data>
-  <data name="emoji_rolling_on_the_floor_laughing" xml:space="preserve">
-    <value>0001F923</value>
-  </data>
-  <data name="emoji_face_tears_of_joy" xml:space="preserve">
-    <value>0001f602</value>
-  </data>
-  <data name="emoji_slightly_smiling_face" xml:space="preserve">
-    <value>0001F642</value>
-  </data>
-  <data name="emoji_upside_down_face" xml:space="preserve">
-    <value>0001F643</value>
-  </data>
-  <data name="emoji_grinning_face_with_big_eyes" xml:space="preserve">
-    <value>0001F603</value>
-  </data>
-  <data name="emoji_grinning_face_with_smiling_eyes" xml:space="preserve">
-    <value>0001F604</value>
-  </data>
-  <data name="emoji_beaming_face_with_smiling_eyes" xml:space="preserve">
-    <value>0001F601</value>
-  </data>
-  <data name="emoji_grinning_face_with_sweat" xml:space="preserve">
-    <value>0001F605</value>
-  </data>
-  <data name="emoji_face_with_tears_of_joy" xml:space="preserve">
-    <value>0001F602</value>
-  </data>
-  <data name="emoji_winking_face" xml:space="preserve">
-    <value>0001F609</value>
-  </data>
-  <data name="emoji_smiling_face_with_smiling_eyes" xml:space="preserve">
-    <value>0001F60A</value>
-  </data>
-  <data name="emoji_smiling_face_with_halo" xml:space="preserve">
-    <value>0001F607</value>
-  </data>
-  <data name="emoji_smiling_face_with_hearts" xml:space="preserve">
-    <value>0001F970</value>
-  </data>
-  <data name="emoji_smiling_face_with_heart_eyes" xml:space="preserve">
-    <value>0001F60D</value>
-  </data>
-  <data name="emoji_star_struck" xml:space="preserve">
-    <value>0001F929</value>
-  </data>
-  <data name="emoji_face_blowing_a_kiss" xml:space="preserve">
-    <value>0001F618</value>
-  </data>
-  <data name="emoji_kissing_face" xml:space="preserve">
-    <value>0001F617</value>
-  </data>
-  <data name="emoji_smiling_face" xml:space="preserve">
-    <value>0000263A</value>
-  </data>
-  <data name="emoji_kissing_face_with_closed_eyes" xml:space="preserve">
-    <value>0001F61A</value>
-  </data>
-  <data name="emoji_kissing_face_with_smiling_eyes" xml:space="preserve">
-    <value>0001F619</value>
-  </data>
-  <data name="emoji_smiling_face_with_tear" xml:space="preserve">
-    <value>0001F972</value>
-  </data>
-  <data name="emoji_face_savoring_food" xml:space="preserve">
-    <value>0001F60B</value>
-  </data>
-  <data name="emoji_face_with_tongue" xml:space="preserve">
-    <value>0001F61B</value>
-  </data>
-  <data name="emoji_winking_face_with_tongue" xml:space="preserve">
-    <value>0001F61C</value>
-  </data>
-  <data name="emoji_zany_face" xml:space="preserve">
-    <value>0001F92A</value>
-  </data>
-  <data name="emoji_squinting_face_with_tongue" xml:space="preserve">
-    <value>0001F61D</value>
-  </data>
-  <data name="emoji_money_mouth_face" xml:space="preserve">
-    <value>0001F911</value>
-  </data>
-  <data name="emoji_hugging_face" xml:space="preserve">
-    <value>0001F917</value>
-  </data>
-  <data name="emoji_face_with_hand_over_mouth" xml:space="preserve">
-    <value>0001F92D</value>
-  </data>
-  <data name="emoji_shushing_face" xml:space="preserve">
-    <value>0001F92B</value>
-  </data>
-  <data name="emoji_thinking_face" xml:space="preserve">
-    <value>0001F914</value>
-  </data>
-  <data name="emoji_zipper_mouth_face" xml:space="preserve">
-    <value>0001F910</value>
-  </data>
-  <data name="emoji_face_with_raised_eyebrow" xml:space="preserve">
-    <value>0001F928</value>
-  </data>
-  <data name="emoji_neutral_face" xml:space="preserve">
-    <value>0001F610</value>
-  </data>
-  <data name="emoji_expressionless_face" xml:space="preserve">
-    <value>0001F611</value>
-  </data>
-  <data name="emoji_face_without_mouth" xml:space="preserve">
-    <value>0001F636</value>
-  </data>
-  <data name="emoji_smirking_face" xml:space="preserve">
-    <value>0001F60F</value>
-  </data>
-  <data name="emoji_unamused_face" xml:space="preserve">
-    <value>0001F612</value>
-  </data>
-  <data name="emoji_face_with_rolling_eyes" xml:space="preserve">
-    <value>0001F644</value>
-  </data>
-  <data name="emoji_grimacing_face" xml:space="preserve">
-    <value>0001F62C</value>
-  </data>
-  <data name="emoji_lying_face" xml:space="preserve">
-    <value>0001F925</value>
-  </data>
-  <data name="emoji_relieved_face" xml:space="preserve">
-    <value>0001F60C</value>
-  </data>
-  <data name="emoji_pensive_face" xml:space="preserve">
-    <value>0001F614</value>
-  </data>
-  <data name="emoji_sleepy_face" xml:space="preserve">
-    <value>0001F62A</value>
-  </data>
-  <data name="emoji_drooling_face" xml:space="preserve">
-    <value>0001F924</value>
-  </data>
-  <data name="emoji_sleeping_face" xml:space="preserve">
-    <value>0001F634</value>
-  </data>
-  <data name="emoji_face_with_medical_mask" xml:space="preserve">
-    <value>0001F637</value>
-  </data>
-  <data name="emoji_face_with_thermometer" xml:space="preserve">
-    <value>0001F912</value>
-  </data>
-  <data name="emoji_face_with_head_bandage" xml:space="preserve">
-    <value>0001F915</value>
-  </data>
-  <data name="emoji_nauseated_face" xml:space="preserve">
-    <value>0001F922</value>
-  </data>
-  <data name="emoji_face_vomiting" xml:space="preserve">
-    <value>0001F92E</value>
-  </data>
-  <data name="emoji_sneezing_face" xml:space="preserve">
-    <value>0001F927</value>
-  </data>
-  <data name="emoji_hot_face" xml:space="preserve">
-    <value>0001F975</value>
-  </data>
-  <data name="emoji_cold_face" xml:space="preserve">
-    <value>0001F976</value>
-  </data>
-  <data name="emoji_woozy_face" xml:space="preserve">
-    <value>0001F974</value>
-  </data>
-  <data name="emoji_knocked_out_face" xml:space="preserve">
-    <value>0001F635</value>
-  </data>
-  <data name="emoji_exploding_head" xml:space="preserve">
-    <value>0001F92F</value>
-  </data>
-  <data name="emoji_cowboy_hat_face" xml:space="preserve">
-    <value>0001F920</value>
-  </data>
-  <data name="emoji_partying_face" xml:space="preserve">
-    <value>0001F973</value>
-  </data>
-  <data name="emoji_disguised_face" xml:space="preserve">
-    <value>0001F978</value>
-  </data>
-  <data name="emoji_smiling_face_with_sunglasses" xml:space="preserve">
-    <value>0001F60E</value>
-  </data>
-  <data name="emoji_nerd_face" xml:space="preserve">
-    <value>0001F913</value>
-  </data>
-  <data name="emoji_face_with_monocle" xml:space="preserve">
-    <value>0001F9D0</value>
-  </data>
-  <data name="emoji_confused_face" xml:space="preserve">
-    <value>0001F615</value>
-  </data>
-  <data name="emoji_worried_face" xml:space="preserve">
-    <value>0001F61F</value>
-  </data>
-  <data name="emoji_slightly_frowning_face" xml:space="preserve">
-    <value>0001F641</value>
-  </data>
-  <data name="emoji_frowning_face" xml:space="preserve">
-    <value>00002639</value>
-  </data>
-  <data name="emoji_face_with_open_mouth" xml:space="preserve">
-    <value>0001F62E</value>
-  </data>
-  <data name="emoji_hushed_face" xml:space="preserve">
-    <value>0001F62F</value>
-  </data>
-  <data name="emoji_astonished_face" xml:space="preserve">
-    <value>0001F632</value>
-  </data>
-  <data name="emoji_flushed_face" xml:space="preserve">
-    <value>0001F633</value>
-  </data>
-  <data name="emoji_pleading_face" xml:space="preserve">
-    <value>0001F97A</value>
-  </data>
-  <data name="emoji_frowning_face_with_open_mouth" xml:space="preserve">
-    <value>0001F626</value>
-  </data>
-  <data name="emoji_anguished_face" xml:space="preserve">
-    <value>0001F627</value>
-  </data>
-  <data name="emoji_fearful_face" xml:space="preserve">
-    <value>0001F628</value>
-  </data>
-  <data name="emoji_anxious_face_with_sweat" xml:space="preserve">
-    <value>0001F630</value>
-  </data>
-  <data name="emoji_sad_but_relieved_face" xml:space="preserve">
-    <value>0001F625</value>
-  </data>
-  <data name="emoji_crying_face" xml:space="preserve">
-    <value>0001F622</value>
-  </data>
-  <data name="emoji_loudly_crying_face" xml:space="preserve">
-    <value>0001F62D</value>
-  </data>
-  <data name="emoji_face_screaming_in_fear" xml:space="preserve">
-    <value>0001F631</value>
-  </data>
-  <data name="emoji_confounded_face" xml:space="preserve">
-    <value>0001F616</value>
-  </data>
-  <data name="emoji_persevering_face" xml:space="preserve">
-    <value>0001F623</value>
-  </data>
-  <data name="emoji_disappointed_face" xml:space="preserve">
-    <value>0001F61E</value>
-  </data>
-  <data name="emoji_downcast_face_with_sweat" xml:space="preserve">
-    <value>0001F613</value>
-  </data>
-  <data name="emoji_weary_face" xml:space="preserve">
-    <value>0001F629</value>
-  </data>
-  <data name="emoji_tired_face" xml:space="preserve">
-    <value>0001F62B</value>
-  </data>
-  <data name="emoji_yawning_face" xml:space="preserve">
-    <value>0001F971</value>
-  </data>
-  <data name="emoji_face_with_steam_from_nose" xml:space="preserve">
-    <value>0001F624</value>
-  </data>
-  <data name="emoji_pouting_face" xml:space="preserve">
-    <value>0001F621</value>
-  </data>
-  <data name="emoji_angry_face" xml:space="preserve">
-    <value>0001F620</value>
-  </data>
-  <data name="emoji_face_with_symbols_on_mouth" xml:space="preserve">
-    <value>0001F92C</value>
-  </data>
-  <data name="emoji_smiling_face_with_horns" xml:space="preserve">
-    <value>0001F608</value>
-  </data>
-  <data name="emoji_angry_face_with_horns" xml:space="preserve">
-    <value>0001F47F</value>
-  </data>
-  <data name="emoji_skull" xml:space="preserve">
-    <value>0001F480</value>
-  </data>
-  <data name="emoji_skull_and_crossbones" xml:space="preserve">
-    <value>00002620</value>
-  </data>
-  <data name="emoji_pile_of_poo" xml:space="preserve">
-    <value>0001F4A9</value>
-  </data>
-  <data name="emoji_clown_face" xml:space="preserve">
-    <value>0001F921</value>
-  </data>
-  <data name="emoji_ogre" xml:space="preserve">
-    <value>0001F479</value>
-  </data>
-  <data name="emoji_goblin" xml:space="preserve">
-    <value>0001F47A</value>
-  </data>
-  <data name="emoji_ghost" xml:space="preserve">
-    <value>0001F47B</value>
-  </data>
-  <data name="emoji_alien" xml:space="preserve">
-    <value>0001F47D</value>
-  </data>
-  <data name="emoji_alien_monster" xml:space="preserve">
-    <value>0001F47E</value>
-  </data>
-  <data name="emoji_robot" xml:space="preserve">
-    <value>0001F916</value>
-  </data>
-  <data name="emoji_grinning_cat" xml:space="preserve">
-    <value>0001F63A</value>
-  </data>
-  <data name="emoji_grinning_cat_with_smiling_eyes" xml:space="preserve">
-    <value>0001F638</value>
-  </data>
-  <data name="emoji_cat_with_tears_of_joy" xml:space="preserve">
-    <value>0001F639</value>
-  </data>
-  <data name="emoji_smiling_cat_with_heart_eyes" xml:space="preserve">
-    <value>0001F63B</value>
-  </data>
-  <data name="emoji_cat_with_wry_smile" xml:space="preserve">
-    <value>0001F63C</value>
-  </data>
-  <data name="emoji_kissing_cat" xml:space="preserve">
-    <value>0001F63D</value>
-  </data>
-  <data name="emoji_weary_cat" xml:space="preserve">
-    <value>0001F640</value>
-  </data>
-  <data name="emoji_crying_cat" xml:space="preserve">
-    <value>0001F63F</value>
-  </data>
-  <data name="emoji_pouting_cat" xml:space="preserve">
-    <value>0001F63E</value>
-  </data>
-  <data name="emoji_see_no_evil_monkey" xml:space="preserve">
-    <value>0001F648</value>
-  </data>
-  <data name="emoji_hear_no_evil_monkey" xml:space="preserve">
-    <value>0001F649</value>
-  </data>
-  <data name="emoji_speak_no_evil_monkey" xml:space="preserve">
-    <value>0001F64A</value>
-  </data>
-  <data name="emoji_kiss_mark" xml:space="preserve">
-    <value>0001F48B</value>
-  </data>
-  <data name="emoji_love_letter" xml:space="preserve">
-    <value>0001F48C</value>
-  </data>
-  <data name="emoji_heart_with_arrow" xml:space="preserve">
-    <value>0001F498</value>
-  </data>
-  <data name="emoji_heart_with_ribbon" xml:space="preserve">
-    <value>0001F49D</value>
-  </data>
-  <data name="emoji_sparkling_heart" xml:space="preserve">
-    <value>0001F496</value>
-  </data>
-  <data name="emoji_growing_heart" xml:space="preserve">
-    <value>0001F497</value>
-  </data>
-  <data name="emoji_beating_heart" xml:space="preserve">
-    <value>0001F493</value>
-  </data>
-  <data name="emoji_revolving_hearts" xml:space="preserve">
-    <value>0001F49E</value>
-  </data>
-  <data name="emoji_two_hearts" xml:space="preserve">
-    <value>0001F495</value>
-  </data>
-  <data name="emoji_heart_decoration" xml:space="preserve">
-    <value>0001F49F</value>
-  </data>
-  <data name="emoji_heart_exclamation" xml:space="preserve">
-    <value>00002763</value>
-  </data>
-  <data name="emoji_broken_heart" xml:space="preserve">
-    <value>0001F494</value>
-  </data>
-  <data name="emoji_red_heart" xml:space="preserve">
-    <value>00002764</value>
-  </data>
-  <data name="emoji_orange_heart" xml:space="preserve">
-    <value>0001F9E1</value>
-  </data>
-  <data name="emoji_yellow_heart" xml:space="preserve">
-    <value>0001F49B</value>
-  </data>
-  <data name="emoji_green_heart" xml:space="preserve">
-    <value>0001F49A</value>
-  </data>
-  <data name="emoji_blue_heart" xml:space="preserve">
-    <value>0001F499</value>
-  </data>
-  <data name="emoji_purple_heart" xml:space="preserve">
-    <value>0001F49C</value>
-  </data>
-  <data name="emoji_brown_heart" xml:space="preserve">
-    <value>0001F90E</value>
-  </data>
-  <data name="emoji_black_heart" xml:space="preserve">
-    <value>0001F5A4</value>
-  </data>
-  <data name="emoji_white_heart" xml:space="preserve">
-    <value>0001F90D</value>
-  </data>
-  <data name="emoji_hundred_points" xml:space="preserve">
-    <value>0001F4AF</value>
-  </data>
-  <data name="emoji_anger_symbol" xml:space="preserve">
-    <value>0001F4A2</value>
-  </data>
-  <data name="emoji_collision" xml:space="preserve">
-    <value>0001F4A5</value>
-  </data>
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="emoji_grinning_face" xml:space="preserve">
+        <value>0001F600</value>
+    </data>
+    <data name="emoji_grinning_face_big_eyes" xml:space="preserve">
+        <value>0001F603</value>
+    </data>
+    <data name="emoji_grinning_face_smiling_eyes" xml:space="preserve">
+        <value>0001F604</value>
+    </data>
+    <data name="emoji_beaming_face_smiling_eyes" xml:space="preserve">
+        <value>0001F601</value>
+    </data>
+    <data name="emoji_grinning_squinting_face" xml:space="preserve">
+        <value>0001F606</value>
+    </data>
+    <data name="emoji_grinning_face_sweat" xml:space="preserve">
+        <value>0001F605</value>
+    </data>
+    <data name="emoji_rolling_on_the_floor_laughing" xml:space="preserve">
+        <value>0001F923</value>
+    </data>
+    <data name="emoji_face_tears_of_joy" xml:space="preserve">
+        <value>0001F602</value>
+    </data>
+    <data name="emoji_slightly_smiling_face" xml:space="preserve">
+        <value>0001F642</value>
+    </data>
+    <data name="emoji_upside_down_face" xml:space="preserve">
+        <value>0001F643</value>
+    </data>
+    <data name="emoji_winking_face" xml:space="preserve">
+        <value>0001F609</value>
+    </data>
+    <data name="emoji_smiling_face_smiling_eyes" xml:space="preserve">
+        <value>0001F60A</value>
+    </data>
+    <data name="emoji_smiling_face_halo" xml:space="preserve">
+        <value>0001F607</value>
+    </data>
+    <data name="emoji_smiling_face_hearts" xml:space="preserve">
+        <value>0001F970</value>
+    </data>
+    <data name="emoji_smiling_face_heart_eyes" xml:space="preserve">
+        <value>0001F60D</value>
+    </data>
+    <data name="emoji_star_struck" xml:space="preserve">
+        <value>0001F929</value>
+    </data>
+    <data name="emoji_face_blowing_a_kiss" xml:space="preserve">
+        <value>0001F618</value>
+    </data>
+    <data name="emoji_kissing_face" xml:space="preserve">
+        <value>0001F617</value>
+    </data>
+    <data name="emoji_smiling_face" xml:space="preserve">
+        <value>0000263A</value>
+    </data>
+    <data name="emoji_kissing_face_closed_eyes" xml:space="preserve">
+        <value>0001F61A</value>
+    </data>
+    <data name="emoji_kissing_face_smiling_eyes" xml:space="preserve">
+        <value>0001F619</value>
+    </data>
+    <data name="emoji_face_savoring_food" xml:space="preserve">
+        <value>0001F60B</value>
+    </data>
+    <data name="emoji_face_tongue" xml:space="preserve">
+        <value>0001F61B</value>
+    </data>
+    <data name="emoji_winking_face_tongue" xml:space="preserve">
+        <value>0001F61C</value>
+    </data>
+    <data name="emoji_zany_face" xml:space="preserve">
+        <value>0001F92A</value>
+    </data>
+    <data name="emoji_squinting_face_tongue" xml:space="preserve">
+        <value>0001F61D</value>
+    </data>
+    <data name="emoji_money_mouth_face" xml:space="preserve">
+        <value>0001F911</value>
+    </data>
+    <data name="emoji_hugging_face" xml:space="preserve">
+        <value>0001F917</value>
+    </data>
+    <data name="emoji_face_hand_over_mouth" xml:space="preserve">
+        <value>0001F92D</value>
+    </data>
+    <data name="emoji_shushing_face" xml:space="preserve">
+        <value>0001F92B</value>
+    </data>
+    <data name="emoji_thinking_face" xml:space="preserve">
+        <value>0001F914</value>
+    </data>
+    <data name="emoji_zipper_mouth_face" xml:space="preserve">
+        <value>0001F910</value>
+    </data>
+    <data name="emoji_face_raised_eyebrow" xml:space="preserve">
+        <value>0001F928</value>
+    </data>
+    <data name="emoji_neutral_face" xml:space="preserve">
+        <value>0001F610</value>
+    </data>
+    <data name="emoji_expressionless_face" xml:space="preserve">
+        <value>0001F611</value>
+    </data>
+    <data name="emoji_face_without_mouth" xml:space="preserve">
+        <value>0001F636</value>
+    </data>
+    <data name="emoji_smirking_face" xml:space="preserve">
+        <value>0001F60F</value>
+    </data>
+    <data name="emoji_unamused_face" xml:space="preserve">
+        <value>0001F612</value>
+    </data>
+    <data name="emoji_face_rolling_eyes" xml:space="preserve">
+        <value>0001F644</value>
+    </data>
+    <data name="emoji_grimacing_face" xml:space="preserve">
+        <value>0001F62C</value>
+    </data>
+    <data name="emoji_lying_face" xml:space="preserve">
+        <value>0001F925</value>
+    </data>
+    <data name="emoji_relieved_face" xml:space="preserve">
+        <value>0001F60C</value>
+    </data>
+    <data name="emoji_pensive_face" xml:space="preserve">
+        <value>0001F614</value>
+    </data>
+    <data name="emoji_sleepy_face" xml:space="preserve">
+        <value>0001F62A</value>
+    </data>
+    <data name="emoji_drooling_face" xml:space="preserve">
+        <value>0001F924</value>
+    </data>
+    <data name="emoji_sleeping_face" xml:space="preserve">
+        <value>0001F634</value>
+    </data>
+    <data name="emoji_face_medical_mask" xml:space="preserve">
+        <value>0001F637</value>
+    </data>
+    <data name="emoji_face_thermometer" xml:space="preserve">
+        <value>0001F912</value>
+    </data>
+    <data name="emoji_face_head_bandage" xml:space="preserve">
+        <value>0001F915</value>
+    </data>
+    <data name="emoji_nauseated_face" xml:space="preserve">
+        <value>0001F922</value>
+    </data>
+    <data name="emoji_face_vomiting" xml:space="preserve">
+        <value>0001F92E</value>
+    </data>
+    <data name="emoji_sneezing_face" xml:space="preserve">
+        <value>0001F927</value>
+    </data>
+    <data name="emoji_hot_face" xml:space="preserve">
+        <value>0001F975</value>
+    </data>
+    <data name="emoji_cold_face" xml:space="preserve">
+        <value>0001F976</value>
+    </data>
+    <data name="emoji_woozy_face" xml:space="preserve">
+        <value>0001F974</value>
+    </data>
+    <data name="emoji_knocked_out_face" xml:space="preserve">
+        <value>0001F635</value>
+    </data>
+    <data name="emoji_exploding_head" xml:space="preserve">
+        <value>0001F92F</value>
+    </data>
+    <data name="emoji_cowboy_hat_face" xml:space="preserve">
+        <value>0001F920</value>
+    </data>
+    <data name="emoji_partying_face" xml:space="preserve">
+        <value>0001F973</value>
+    </data>
+    <data name="emoji_smiling_face_sunglasses" xml:space="preserve">
+        <value>0001F60E</value>
+    </data>
+    <data name="emoji_nerd_face" xml:space="preserve">
+        <value>0001F913</value>
+    </data>
+    <data name="emoji_face_monocle" xml:space="preserve">
+        <value>0001F9D0</value>
+    </data>
+    <data name="emoji_confused_face" xml:space="preserve">
+        <value>0001F615</value>
+    </data>
+    <data name="emoji_worried_face" xml:space="preserve">
+        <value>0001F61F</value>
+    </data>
+    <data name="emoji_slightly_frowning_face" xml:space="preserve">
+        <value>0001F641</value>
+    </data>
+    <data name="emoji_frowning_face" xml:space="preserve">
+        <value>00002639</value>
+    </data>
+    <data name="emoji_face_open_mouth" xml:space="preserve">
+        <value>0001F62E</value>
+    </data>
+    <data name="emoji_hushed_face" xml:space="preserve">
+        <value>0001F62F</value>
+    </data>
+    <data name="emoji_astonished_face" xml:space="preserve">
+        <value>0001F632</value>
+    </data>
+    <data name="emoji_flushed_face" xml:space="preserve">
+        <value>0001F633</value>
+    </data>
+    <data name="emoji_pleading_face" xml:space="preserve">
+        <value>0001F97A</value>
+    </data>
+    <data name="emoji_frowning_face_open_mouth" xml:space="preserve">
+        <value>0001F626</value>
+    </data>
+    <data name="emoji_anguished_face" xml:space="preserve">
+        <value>0001F627</value>
+    </data>
+    <data name="emoji_fearful_face" xml:space="preserve">
+        <value>0001F628</value>
+    </data>
+    <data name="emoji_anxious_face_sweat" xml:space="preserve">
+        <value>0001F630</value>
+    </data>
+    <data name="emoji_sad_but_relieved_face" xml:space="preserve">
+        <value>0001F625</value>
+    </data>
+    <data name="emoji_crying_face" xml:space="preserve">
+        <value>0001F622</value>
+    </data>
+    <data name="emoji_loudly_crying_face" xml:space="preserve">
+        <value>0001F62D</value>
+    </data>
+    <data name="emoji_face_screaming_in_fear" xml:space="preserve">
+        <value>0001F631</value>
+    </data>
+    <data name="emoji_confounded_face" xml:space="preserve">
+        <value>0001F616</value>
+    </data>
+    <data name="emoji_persevering_face" xml:space="preserve">
+        <value>0001F623</value>
+    </data>
+    <data name="emoji_disappointed_face" xml:space="preserve">
+        <value>0001F61E</value>
+    </data>
+    <data name="emoji_downcast_face_sweat" xml:space="preserve">
+        <value>0001F613</value>
+    </data>
+    <data name="emoji_weary_face" xml:space="preserve">
+        <value>0001F629</value>
+    </data>
+    <data name="emoji_tired_face" xml:space="preserve">
+        <value>0001F62B</value>
+    </data>
+    <data name="emoji_yawning_face" xml:space="preserve">
+        <value>0001F971</value>
+    </data>
+    <data name="emoji_face_steam_from_nose" xml:space="preserve">
+        <value>0001F624</value>
+    </data>
+    <data name="emoji_pouting_face" xml:space="preserve">
+        <value>0001F621</value>
+    </data>
+    <data name="emoji_angry_face" xml:space="preserve">
+        <value>0001F620</value>
+    </data>
+    <data name="emoji_face_symbols_on_mouth" xml:space="preserve">
+        <value>0001F92C</value>
+    </data>
+    <data name="emoji_smiling_face_horns" xml:space="preserve">
+        <value>0001F608</value>
+    </data>
+    <data name="emoji_angry_face_horns" xml:space="preserve">
+        <value>0001F47F</value>
+    </data>
+    <data name="emoji_skull" xml:space="preserve">
+        <value>0001F480</value>
+    </data>
+    <data name="emoji_skull_and_crossbones" xml:space="preserve">
+        <value>00002620</value>
+    </data>
+    <data name="emoji_pile_of_poo" xml:space="preserve">
+        <value>0001F4A9</value>
+    </data>
+    <data name="emoji_clown_face" xml:space="preserve">
+        <value>0001F921</value>
+    </data>
+    <data name="emoji_ogre" xml:space="preserve">
+        <value>0001F479</value>
+    </data>
+    <data name="emoji_goblin" xml:space="preserve">
+        <value>0001F47A</value>
+    </data>
+    <data name="emoji_ghost" xml:space="preserve">
+        <value>0001F47B</value>
+    </data>
+    <data name="emoji_alien" xml:space="preserve">
+        <value>0001F47D</value>
+    </data>
+    <data name="emoji_alien_monster" xml:space="preserve">
+        <value>0001F47E</value>
+    </data>
+    <data name="emoji_robot" xml:space="preserve">
+        <value>0001F916</value>
+    </data>
+    <data name="emoji_grinning_cat" xml:space="preserve">
+        <value>0001F63A</value>
+    </data>
+    <data name="emoji_grinning_cat_smiling_eyes" xml:space="preserve">
+        <value>0001F638</value>
+    </data>
+    <data name="emoji_cat_tears_of_joy" xml:space="preserve">
+        <value>0001F639</value>
+    </data>
+    <data name="emoji_smiling_cat_heart_eyes" xml:space="preserve">
+        <value>0001F63B</value>
+    </data>
+    <data name="emoji_cat_wry_smile" xml:space="preserve">
+        <value>0001F63C</value>
+    </data>
+    <data name="emoji_kissing_cat" xml:space="preserve">
+        <value>0001F63D</value>
+    </data>
+    <data name="emoji_weary_cat" xml:space="preserve">
+        <value>0001F640</value>
+    </data>
+    <data name="emoji_crying_cat" xml:space="preserve">
+        <value>0001F63F</value>
+    </data>
+    <data name="emoji_pouting_cat" xml:space="preserve">
+        <value>0001F63E</value>
+    </data>
+    <data name="emoji_see_no_evil_monkey" xml:space="preserve">
+        <value>0001F648</value>
+    </data>
+    <data name="emoji_hear_no_evil_monkey" xml:space="preserve">
+        <value>0001F649</value>
+    </data>
+    <data name="emoji_speak_no_evil_monkey" xml:space="preserve">
+        <value>0001F64A</value>
+    </data>
+    <data name="emoji_kiss_mark" xml:space="preserve">
+        <value>0001F48B</value>
+    </data>
+    <data name="emoji_love_letter" xml:space="preserve">
+        <value>0001F48C</value>
+    </data>
+    <data name="emoji_heart_arrow" xml:space="preserve">
+        <value>0001F498</value>
+    </data>
+    <data name="emoji_heart_ribbon" xml:space="preserve">
+        <value>0001F49D</value>
+    </data>
+    <data name="emoji_sparkling_heart" xml:space="preserve">
+        <value>0001F496</value>
+    </data>
+    <data name="emoji_growing_heart" xml:space="preserve">
+        <value>0001F497</value>
+    </data>
+    <data name="emoji_beating_heart" xml:space="preserve">
+        <value>0001F493</value>
+    </data>
+    <data name="emoji_revolving_hearts" xml:space="preserve">
+        <value>0001F49E</value>
+    </data>
+    <data name="emoji_two_hearts" xml:space="preserve">
+        <value>0001F495</value>
+    </data>
+    <data name="emoji_heart_decoration" xml:space="preserve">
+        <value>0001F49F</value>
+    </data>
+    <data name="emoji_heart_exclamation" xml:space="preserve">
+        <value>00002763</value>
+    </data>
+    <data name="emoji_broken_heart" xml:space="preserve">
+        <value>0001F494</value>
+    </data>
+    <data name="emoji_red_heart" xml:space="preserve">
+        <value>00002764</value>
+    </data>
+    <data name="emoji_orange_heart" xml:space="preserve">
+        <value>0001F9E1</value>
+    </data>
+    <data name="emoji_yellow_heart" xml:space="preserve">
+        <value>0001F49B</value>
+    </data>
+    <data name="emoji_green_heart" xml:space="preserve">
+        <value>0001F49A</value>
+    </data>
+    <data name="emoji_blue_heart" xml:space="preserve">
+        <value>0001F499</value>
+    </data>
+    <data name="emoji_purple_heart" xml:space="preserve">
+        <value>0001F49C</value>
+    </data>
+    <data name="emoji_brown_heart" xml:space="preserve">
+        <value>0001F90E</value>
+    </data>
+    <data name="emoji_black_heart" xml:space="preserve">
+        <value>0001F5A4</value>
+    </data>
+    <data name="emoji_white_heart" xml:space="preserve">
+        <value>0001F90D</value>
+    </data>
+    <data name="emoji_hundred_points" xml:space="preserve">
+        <value>0001F4AF</value>
+    </data>
+    <data name="emoji_anger_symbol" xml:space="preserve">
+        <value>0001F4A2</value>
+    </data>
+    <data name="emoji_collision" xml:space="preserve">
+        <value>0001F4A5</value>
+    </data>
+    <data name="emoji_dizzy" xml:space="preserve">
+        <value>0001F4AB</value>
+    </data>
+    <data name="emoji_sweat_droplets" xml:space="preserve">
+        <value>0001F4A6</value>
+    </data>
+    <data name="emoji_dashing_away" xml:space="preserve">
+        <value>0001F4A8</value>
+    </data>
+    <data name="emoji_hole" xml:space="preserve">
+        <value>0001F573</value>
+    </data>
+    <data name="emoji_bomb" xml:space="preserve">
+        <value>0001F4A3</value>
+    </data>
+    <data name="emoji_speech_balloon" xml:space="preserve">
+        <value>0001F4AC</value>
+    </data>
+    <data name="emoji_left_speech_bubble" xml:space="preserve">
+        <value>0001F5E8</value>
+    </data>
+    <data name="emoji_right_anger_bubble" xml:space="preserve">
+        <value>0001F5EF</value>
+    </data>
+    <data name="emoji_thought_balloon" xml:space="preserve">
+        <value>0001F4AD</value>
+    </data>
+    <data name="emoji_zzz" xml:space="preserve">
+        <value>0001F4A4</value>
+    </data>
+    <data name="emoji_mechanical_arm" xml:space="preserve">
+        <value>0001F9BE</value>
+    </data>
+    <data name="emoji_mechanical_leg" xml:space="preserve">
+        <value>0001F9BF</value>
+    </data>
+    <data name="emoji_brain" xml:space="preserve">
+        <value>0001F9E0</value>
+    </data>
+    <data name="emoji_tooth" xml:space="preserve">
+        <value>0001F9B7</value>
+    </data>
+    <data name="emoji_bone" xml:space="preserve">
+        <value>0001F9B4</value>
+    </data>
+    <data name="emoji_eyes" xml:space="preserve">
+        <value>0001F440</value>
+    </data>
+    <data name="emoji_eye" xml:space="preserve">
+        <value>0001F441</value>
+    </data>
+    <data name="emoji_tongue" xml:space="preserve">
+        <value>0001F445</value>
+    </data>
+    <data name="emoji_mouth" xml:space="preserve">
+        <value>0001F444</value>
+    </data>
+    <data name="emoji_genie" xml:space="preserve">
+        <value>0001F9DE</value>
+    </data>
+    <data name="emoji_zombie" xml:space="preserve">
+        <value>0001F9DF</value>
+    </data>
+    <data name="emoji_person_fencing" xml:space="preserve">
+        <value>0001F93A</value>
+    </data>
+    <data name="emoji_footprints" xml:space="preserve">
+        <value>0001F463</value>
+    </data>
+    <data name="emoji_monkey_face" xml:space="preserve">
+        <value>0001F435</value>
+    </data>
+    <data name="emoji_monkey" xml:space="preserve">
+        <value>0001F412</value>
+    </data>
+    <data name="emoji_gorilla" xml:space="preserve">
+        <value>0001F98D</value>
+    </data>
+    <data name="emoji_orangutan" xml:space="preserve">
+        <value>0001F9A7</value>
+    </data>
+    <data name="emoji_dog_face" xml:space="preserve">
+        <value>0001F436</value>
+    </data>
+    <data name="emoji_dog" xml:space="preserve">
+        <value>0001F415</value>
+    </data>
+    <data name="emoji_guide_dog" xml:space="preserve">
+        <value>0001F9AE</value>
+    </data>
+    <data name="emoji_poodle" xml:space="preserve">
+        <value>0001F429</value>
+    </data>
+    <data name="emoji_wolf" xml:space="preserve">
+        <value>0001F43A</value>
+    </data>
+    <data name="emoji_fox" xml:space="preserve">
+        <value>0001F98A</value>
+    </data>
+    <data name="emoji_raccoon" xml:space="preserve">
+        <value>0001F99D</value>
+    </data>
+    <data name="emoji_cat_face" xml:space="preserve">
+        <value>0001F431</value>
+    </data>
+    <data name="emoji_cat" xml:space="preserve">
+        <value>0001F408</value>
+    </data>
+    <data name="emoji_lion" xml:space="preserve">
+        <value>0001F981</value>
+    </data>
+    <data name="emoji_tiger_face" xml:space="preserve">
+        <value>0001F42F</value>
+    </data>
+    <data name="emoji_tiger" xml:space="preserve">
+        <value>0001F405</value>
+    </data>
+    <data name="emoji_leopard" xml:space="preserve">
+        <value>0001F406</value>
+    </data>
+    <data name="emoji_horse_face" xml:space="preserve">
+        <value>0001F434</value>
+    </data>
+    <data name="emoji_horse" xml:space="preserve">
+        <value>0001F40E</value>
+    </data>
+    <data name="emoji_unicorn" xml:space="preserve">
+        <value>0001F984</value>
+    </data>
+    <data name="emoji_zebra" xml:space="preserve">
+        <value>0001F993</value>
+    </data>
+    <data name="emoji_deer" xml:space="preserve">
+        <value>0001F98C</value>
+    </data>
+    <data name="emoji_cow_face" xml:space="preserve">
+        <value>0001F42E</value>
+    </data>
+    <data name="emoji_ox" xml:space="preserve">
+        <value>0001F402</value>
+    </data>
+    <data name="emoji_water_buffalo" xml:space="preserve">
+        <value>0001F403</value>
+    </data>
+    <data name="emoji_cow" xml:space="preserve">
+        <value>0001F404</value>
+    </data>
+    <data name="emoji_pig_face" xml:space="preserve">
+        <value>0001F437</value>
+    </data>
+    <data name="emoji_pig" xml:space="preserve">
+        <value>0001F416</value>
+    </data>
+    <data name="emoji_boar" xml:space="preserve">
+        <value>0001F417</value>
+    </data>
+    <data name="emoji_pig_nose" xml:space="preserve">
+        <value>0001F43D</value>
+    </data>
+    <data name="emoji_ram" xml:space="preserve">
+        <value>0001F40F</value>
+    </data>
+    <data name="emoji_ewe" xml:space="preserve">
+        <value>0001F411</value>
+    </data>
+    <data name="emoji_goat" xml:space="preserve">
+        <value>0001F410</value>
+    </data>
+    <data name="emoji_camel" xml:space="preserve">
+        <value>0001F42A</value>
+    </data>
+    <data name="emoji_two_hump_camel" xml:space="preserve">
+        <value>0001F42B</value>
+    </data>
+    <data name="emoji_llama" xml:space="preserve">
+        <value>0001F999</value>
+    </data>
+    <data name="emoji_giraffe" xml:space="preserve">
+        <value>0001F992</value>
+    </data>
+    <data name="emoji_elephant" xml:space="preserve">
+        <value>0001F418</value>
+    </data>
+    <data name="emoji_rhinoceros" xml:space="preserve">
+        <value>0001F98F</value>
+    </data>
+    <data name="emoji_hippopotamus" xml:space="preserve">
+        <value>0001F99B</value>
+    </data>
+    <data name="emoji_mouse_face" xml:space="preserve">
+        <value>0001F42D</value>
+    </data>
+    <data name="emoji_mouse" xml:space="preserve">
+        <value>0001F401</value>
+    </data>
+    <data name="emoji_rat" xml:space="preserve">
+        <value>0001F400</value>
+    </data>
+    <data name="emoji_hamster" xml:space="preserve">
+        <value>0001F439</value>
+    </data>
+    <data name="emoji_rabbit_face" xml:space="preserve">
+        <value>0001F430</value>
+    </data>
+    <data name="emoji_rabbit" xml:space="preserve">
+        <value>0001F407</value>
+    </data>
+    <data name="emoji_chipmunk" xml:space="preserve">
+        <value>0001F43F</value>
+    </data>
+    <data name="emoji_hedgehog" xml:space="preserve">
+        <value>0001F994</value>
+    </data>
+    <data name="emoji_bat" xml:space="preserve">
+        <value>0001F987</value>
+    </data>
+    <data name="emoji_bear" xml:space="preserve">
+        <value>0001F43B</value>
+    </data>
+    <data name="emoji_koala" xml:space="preserve">
+        <value>0001F428</value>
+    </data>
+    <data name="emoji_panda" xml:space="preserve">
+        <value>0001F43C</value>
+    </data>
+    <data name="emoji_sloth" xml:space="preserve">
+        <value>0001F9A5</value>
+    </data>
+    <data name="emoji_otter" xml:space="preserve">
+        <value>0001F9A6</value>
+    </data>
+    <data name="emoji_skunk" xml:space="preserve">
+        <value>0001F9A8</value>
+    </data>
+    <data name="emoji_kangaroo" xml:space="preserve">
+        <value>0001F998</value>
+    </data>
+    <data name="emoji_badger" xml:space="preserve">
+        <value>0001F9A1</value>
+    </data>
+    <data name="emoji_paw_prints" xml:space="preserve">
+        <value>0001F43E</value>
+    </data>
+    <data name="emoji_turkey" xml:space="preserve">
+        <value>0001F983</value>
+    </data>
+    <data name="emoji_chicken" xml:space="preserve">
+        <value>0001F414</value>
+    </data>
+    <data name="emoji_rooster" xml:space="preserve">
+        <value>0001F413</value>
+    </data>
+    <data name="emoji_hatching_chick" xml:space="preserve">
+        <value>0001F423</value>
+    </data>
+    <data name="emoji_baby_chick" xml:space="preserve">
+        <value>0001F424</value>
+    </data>
+    <data name="emoji_front_facing_baby_chick" xml:space="preserve">
+        <value>0001F425</value>
+    </data>
+    <data name="emoji_bird" xml:space="preserve">
+        <value>0001F426</value>
+    </data>
+    <data name="emoji_penguin" xml:space="preserve">
+        <value>0001F427</value>
+    </data>
+    <data name="emoji_dove" xml:space="preserve">
+        <value>0001F54A</value>
+    </data>
+    <data name="emoji_eagle" xml:space="preserve">
+        <value>0001F985</value>
+    </data>
+    <data name="emoji_duck" xml:space="preserve">
+        <value>0001F986</value>
+    </data>
+    <data name="emoji_swan" xml:space="preserve">
+        <value>0001F9A2</value>
+    </data>
+    <data name="emoji_owl" xml:space="preserve">
+        <value>0001F989</value>
+    </data>
+    <data name="emoji_flamingo" xml:space="preserve">
+        <value>0001F9A9</value>
+    </data>
+    <data name="emoji_peacock" xml:space="preserve">
+        <value>0001F99A</value>
+    </data>
+    <data name="emoji_parrot" xml:space="preserve">
+        <value>0001F99C</value>
+    </data>
+    <data name="emoji_frog" xml:space="preserve">
+        <value>0001F438</value>
+    </data>
+    <data name="emoji_crocodile" xml:space="preserve">
+        <value>0001F40A</value>
+    </data>
+    <data name="emoji_turtle" xml:space="preserve">
+        <value>0001F422</value>
+    </data>
+    <data name="emoji_lizard" xml:space="preserve">
+        <value>0001F98E</value>
+    </data>
+    <data name="emoji_snake" xml:space="preserve">
+        <value>0001F40D</value>
+    </data>
+    <data name="emoji_dragon_face" xml:space="preserve">
+        <value>0001F432</value>
+    </data>
+    <data name="emoji_dragon" xml:space="preserve">
+        <value>0001F409</value>
+    </data>
+    <data name="emoji_sauropod" xml:space="preserve">
+        <value>0001F995</value>
+    </data>
+    <data name="emoji_T_Rex" xml:space="preserve">
+        <value>0001F996</value>
+    </data>
+    <data name="emoji_spouting_whale" xml:space="preserve">
+        <value>0001F433</value>
+    </data>
+    <data name="emoji_whale" xml:space="preserve">
+        <value>0001F40B</value>
+    </data>
+    <data name="emoji_dolphin" xml:space="preserve">
+        <value>0001F42C</value>
+    </data>
+    <data name="emoji_fish" xml:space="preserve">
+        <value>0001F41F</value>
+    </data>
+    <data name="emoji_tropical_fish" xml:space="preserve">
+        <value>0001F420</value>
+    </data>
+    <data name="emoji_blowfish" xml:space="preserve">
+        <value>0001F421</value>
+    </data>
+    <data name="emoji_shark" xml:space="preserve">
+        <value>0001F988</value>
+    </data>
+    <data name="emoji_octopus" xml:space="preserve">
+        <value>0001F419</value>
+    </data>
+    <data name="emoji_spiral_shell" xml:space="preserve">
+        <value>0001F41A</value>
+    </data>
+    <data name="emoji_snail" xml:space="preserve">
+        <value>0001F40C</value>
+    </data>
+    <data name="emoji_butterfly" xml:space="preserve">
+        <value>0001F98B</value>
+    </data>
+    <data name="emoji_bug" xml:space="preserve">
+        <value>0001F41B</value>
+    </data>
+    <data name="emoji_ant" xml:space="preserve">
+        <value>0001F41C</value>
+    </data>
+    <data name="emoji_honeybee" xml:space="preserve">
+        <value>0001F41D</value>
+    </data>
+    <data name="emoji_lady_beetle" xml:space="preserve">
+        <value>0001F41E</value>
+    </data>
+    <data name="emoji_cricket" xml:space="preserve">
+        <value>0001F997</value>
+    </data>
+    <data name="emoji_spider" xml:space="preserve">
+        <value>0001F577</value>
+    </data>
+    <data name="emoji_spider_web" xml:space="preserve">
+        <value>0001F578</value>
+    </data>
+    <data name="emoji_scorpion" xml:space="preserve">
+        <value>0001F982</value>
+    </data>
+    <data name="emoji_mosquito" xml:space="preserve">
+        <value>0001F99F</value>
+    </data>
+    <data name="emoji_microbe" xml:space="preserve">
+        <value>0001F9A0</value>
+    </data>
+    <data name="emoji_bouquet" xml:space="preserve">
+        <value>0001F490</value>
+    </data>
+    <data name="emoji_cherry_blossom" xml:space="preserve">
+        <value>0001F338</value>
+    </data>
+    <data name="emoji_white_flower" xml:space="preserve">
+        <value>0001F4AE</value>
+    </data>
+    <data name="emoji_rosette" xml:space="preserve">
+        <value>0001F3F5</value>
+    </data>
+    <data name="emoji_rose" xml:space="preserve">
+        <value>0001F339</value>
+    </data>
+    <data name="emoji_wilted_flower" xml:space="preserve">
+        <value>0001F940</value>
+    </data>
+    <data name="emoji_hibiscus" xml:space="preserve">
+        <value>0001F33A</value>
+    </data>
+    <data name="emoji_sunflower" xml:space="preserve">
+        <value>0001F33B</value>
+    </data>
+    <data name="emoji_blossom" xml:space="preserve">
+        <value>0001F33C</value>
+    </data>
+    <data name="emoji_tulip" xml:space="preserve">
+        <value>0001F337</value>
+    </data>
+    <data name="emoji_seedling" xml:space="preserve">
+        <value>0001F331</value>
+    </data>
+    <data name="emoji_evergreen_tree" xml:space="preserve">
+        <value>0001F332</value>
+    </data>
+    <data name="emoji_deciduous_tree" xml:space="preserve">
+        <value>0001F333</value>
+    </data>
+    <data name="emoji_palm_tree" xml:space="preserve">
+        <value>0001F334</value>
+    </data>
+    <data name="emoji_cactus" xml:space="preserve">
+        <value>0001F335</value>
+    </data>
+    <data name="emoji_sheaf_of_rice" xml:space="preserve">
+        <value>0001F33E</value>
+    </data>
+    <data name="emoji_herb" xml:space="preserve">
+        <value>0001F33F</value>
+    </data>
+    <data name="emoji_shamrock" xml:space="preserve">
+        <value>00002618</value>
+    </data>
+    <data name="emoji_four_leaf_clover" xml:space="preserve">
+        <value>0001F340</value>
+    </data>
+    <data name="emoji_maple_leaf" xml:space="preserve">
+        <value>0001F341</value>
+    </data>
+    <data name="emoji_fallen_leaf" xml:space="preserve">
+        <value>0001F342</value>
+    </data>
+    <data name="emoji_leaf_fluttering_in_wind" xml:space="preserve">
+        <value>0001F343</value>
+    </data>
+    <data name="emoji_grapes" xml:space="preserve">
+        <value>0001F347</value>
+    </data>
+    <data name="emoji_melon" xml:space="preserve">
+        <value>0001F348</value>
+    </data>
+    <data name="emoji_watermelon" xml:space="preserve">
+        <value>0001F349</value>
+    </data>
+    <data name="emoji_tangerine" xml:space="preserve">
+        <value>0001F34A</value>
+    </data>
+    <data name="emoji_lemon" xml:space="preserve">
+        <value>0001F34B</value>
+    </data>
+    <data name="emoji_banana" xml:space="preserve">
+        <value>0001F34C</value>
+    </data>
+    <data name="emoji_pineapple" xml:space="preserve">
+        <value>0001F34D</value>
+    </data>
+    <data name="emoji_mango" xml:space="preserve">
+        <value>0001F96D</value>
+    </data>
+    <data name="emoji_red_apple" xml:space="preserve">
+        <value>0001F34E</value>
+    </data>
+    <data name="emoji_green_apple" xml:space="preserve">
+        <value>0001F34F</value>
+    </data>
+    <data name="emoji_pear" xml:space="preserve">
+        <value>0001F350</value>
+    </data>
+    <data name="emoji_peach" xml:space="preserve">
+        <value>0001F351</value>
+    </data>
+    <data name="emoji_cherries" xml:space="preserve">
+        <value>0001F352</value>
+    </data>
+    <data name="emoji_strawberry" xml:space="preserve">
+        <value>0001F353</value>
+    </data>
+    <data name="emoji_kiwi_fruit" xml:space="preserve">
+        <value>0001F95D</value>
+    </data>
+    <data name="emoji_tomato" xml:space="preserve">
+        <value>0001F345</value>
+    </data>
+    <data name="emoji_coconut" xml:space="preserve">
+        <value>0001F965</value>
+    </data>
+    <data name="emoji_avocado" xml:space="preserve">
+        <value>0001F951</value>
+    </data>
+    <data name="emoji_eggplant" xml:space="preserve">
+        <value>0001F346</value>
+    </data>
+    <data name="emoji_potato" xml:space="preserve">
+        <value>0001F954</value>
+    </data>
+    <data name="emoji_carrot" xml:space="preserve">
+        <value>0001F955</value>
+    </data>
+    <data name="emoji_ear_of_corn" xml:space="preserve">
+        <value>0001F33D</value>
+    </data>
+    <data name="emoji_hot_pepper" xml:space="preserve">
+        <value>0001F336</value>
+    </data>
+    <data name="emoji_cucumber" xml:space="preserve">
+        <value>0001F952</value>
+    </data>
+    <data name="emoji_leafy_green" xml:space="preserve">
+        <value>0001F96C</value>
+    </data>
+    <data name="emoji_broccoli" xml:space="preserve">
+        <value>0001F966</value>
+    </data>
+    <data name="emoji_garlic" xml:space="preserve">
+        <value>0001F9C4</value>
+    </data>
+    <data name="emoji_onion" xml:space="preserve">
+        <value>0001F9C5</value>
+    </data>
+    <data name="emoji_mushroom" xml:space="preserve">
+        <value>0001F344</value>
+    </data>
+    <data name="emoji_peanuts" xml:space="preserve">
+        <value>0001F95C</value>
+    </data>
+    <data name="emoji_chestnut" xml:space="preserve">
+        <value>0001F330</value>
+    </data>
+    <data name="emoji_bread" xml:space="preserve">
+        <value>0001F35E</value>
+    </data>
+    <data name="emoji_croissant" xml:space="preserve">
+        <value>0001F950</value>
+    </data>
+    <data name="emoji_baguette_bread" xml:space="preserve">
+        <value>0001F956</value>
+    </data>
+    <data name="emoji_pretzel" xml:space="preserve">
+        <value>0001F968</value>
+    </data>
+    <data name="emoji_bagel" xml:space="preserve">
+        <value>0001F96F</value>
+    </data>
+    <data name="emoji_pancakes" xml:space="preserve">
+        <value>0001F95E</value>
+    </data>
+    <data name="emoji_waffle" xml:space="preserve">
+        <value>0001F9C7</value>
+    </data>
+    <data name="emoji_cheese_wedge" xml:space="preserve">
+        <value>0001F9C0</value>
+    </data>
+    <data name="emoji_meat_on_bone" xml:space="preserve">
+        <value>0001F356</value>
+    </data>
+    <data name="emoji_poultry_leg" xml:space="preserve">
+        <value>0001F357</value>
+    </data>
+    <data name="emoji_cut_of_meat" xml:space="preserve">
+        <value>0001F969</value>
+    </data>
+    <data name="emoji_bacon" xml:space="preserve">
+        <value>0001F953</value>
+    </data>
+    <data name="emoji_hamburger" xml:space="preserve">
+        <value>0001F354</value>
+    </data>
+    <data name="emoji_french_fries" xml:space="preserve">
+        <value>0001F35F</value>
+    </data>
+    <data name="emoji_pizza" xml:space="preserve">
+        <value>0001F355</value>
+    </data>
+    <data name="emoji_hot_dog" xml:space="preserve">
+        <value>0001F32D</value>
+    </data>
+    <data name="emoji_sandwich" xml:space="preserve">
+        <value>0001F96A</value>
+    </data>
+    <data name="emoji_taco" xml:space="preserve">
+        <value>0001F32E</value>
+    </data>
+    <data name="emoji_burrito" xml:space="preserve">
+        <value>0001F32F</value>
+    </data>
+    <data name="emoji_stuffed_flatbread" xml:space="preserve">
+        <value>0001F959</value>
+    </data>
+    <data name="emoji_falafel" xml:space="preserve">
+        <value>0001F9C6</value>
+    </data>
+    <data name="emoji_egg" xml:space="preserve">
+        <value>0001F95A</value>
+    </data>
+    <data name="emoji_cooking" xml:space="preserve">
+        <value>0001F373</value>
+    </data>
+    <data name="emoji_shallow_pan_of_food" xml:space="preserve">
+        <value>0001F958</value>
+    </data>
+    <data name="emoji_pot_of_food" xml:space="preserve">
+        <value>0001F372</value>
+    </data>
+    <data name="emoji_bowl_spoon" xml:space="preserve">
+        <value>0001F963</value>
+    </data>
+    <data name="emoji_green_salad" xml:space="preserve">
+        <value>0001F957</value>
+    </data>
+    <data name="emoji_popcorn" xml:space="preserve">
+        <value>0001F37F</value>
+    </data>
+    <data name="emoji_butter" xml:space="preserve">
+        <value>0001F9C8</value>
+    </data>
+    <data name="emoji_salt" xml:space="preserve">
+        <value>0001F9C2</value>
+    </data>
+    <data name="emoji_canned_food" xml:space="preserve">
+        <value>0001F96B</value>
+    </data>
+    <data name="emoji_bento_box" xml:space="preserve">
+        <value>0001F371</value>
+    </data>
+    <data name="emoji_rice_cracker" xml:space="preserve">
+        <value>0001F358</value>
+    </data>
+    <data name="emoji_rice_ball" xml:space="preserve">
+        <value>0001F359</value>
+    </data>
+    <data name="emoji_cooked_rice" xml:space="preserve">
+        <value>0001F35A</value>
+    </data>
+    <data name="emoji_curry_rice" xml:space="preserve">
+        <value>0001F35B</value>
+    </data>
+    <data name="emoji_steaming_bowl" xml:space="preserve">
+        <value>0001F35C</value>
+    </data>
+    <data name="emoji_spaghetti" xml:space="preserve">
+        <value>0001F35D</value>
+    </data>
+    <data name="emoji_roasted_sweet_potato" xml:space="preserve">
+        <value>0001F360</value>
+    </data>
+    <data name="emoji_oden" xml:space="preserve">
+        <value>0001F362</value>
+    </data>
+    <data name="emoji_sushi" xml:space="preserve">
+        <value>0001F363</value>
+    </data>
+    <data name="emoji_fried_shrimp" xml:space="preserve">
+        <value>0001F364</value>
+    </data>
+    <data name="emoji_fish_cake_swirl" xml:space="preserve">
+        <value>0001F365</value>
+    </data>
+    <data name="emoji_moon_cake" xml:space="preserve">
+        <value>0001F96E</value>
+    </data>
+    <data name="emoji_dango" xml:space="preserve">
+        <value>0001F361</value>
+    </data>
+    <data name="emoji_dumpling" xml:space="preserve">
+        <value>0001F95F</value>
+    </data>
+    <data name="emoji_fortune_cookie" xml:space="preserve">
+        <value>0001F960</value>
+    </data>
+    <data name="emoji_takeout_box" xml:space="preserve">
+        <value>0001F961</value>
+    </data>
+    <data name="emoji_crab" xml:space="preserve">
+        <value>0001F980</value>
+    </data>
+    <data name="emoji_lobster" xml:space="preserve">
+        <value>0001F99E</value>
+    </data>
+    <data name="emoji_shrimp" xml:space="preserve">
+        <value>0001F990</value>
+    </data>
+    <data name="emoji_squid" xml:space="preserve">
+        <value>0001F991</value>
+    </data>
+    <data name="emoji_oyster" xml:space="preserve">
+        <value>0001F9AA</value>
+    </data>
+    <data name="emoji_soft_ice_cream" xml:space="preserve">
+        <value>0001F366</value>
+    </data>
+    <data name="emoji_shaved_ice" xml:space="preserve">
+        <value>0001F367</value>
+    </data>
+    <data name="emoji_ice_cream" xml:space="preserve">
+        <value>0001F368</value>
+    </data>
+    <data name="emoji_doughnut" xml:space="preserve">
+        <value>0001F369</value>
+    </data>
+    <data name="emoji_cookie" xml:space="preserve">
+        <value>0001F36A</value>
+    </data>
+    <data name="emoji_birthday_cake" xml:space="preserve">
+        <value>0001F382</value>
+    </data>
+    <data name="emoji_shortcake" xml:space="preserve">
+        <value>0001F370</value>
+    </data>
+    <data name="emoji_cupcake" xml:space="preserve">
+        <value>0001F9C1</value>
+    </data>
+    <data name="emoji_pie" xml:space="preserve">
+        <value>0001F967</value>
+    </data>
+    <data name="emoji_chocolate_bar" xml:space="preserve">
+        <value>0001F36B</value>
+    </data>
+    <data name="emoji_candy" xml:space="preserve">
+        <value>0001F36C</value>
+    </data>
+    <data name="emoji_lollipop" xml:space="preserve">
+        <value>0001F36D</value>
+    </data>
+    <data name="emoji_custard" xml:space="preserve">
+        <value>0001F36E</value>
+    </data>
+    <data name="emoji_honey_pot" xml:space="preserve">
+        <value>0001F36F</value>
+    </data>
+    <data name="emoji_baby_bottle" xml:space="preserve">
+        <value>0001F37C</value>
+    </data>
+    <data name="emoji_glass_of_milk" xml:space="preserve">
+        <value>0001F95B</value>
+    </data>
+    <data name="emoji_hot_beverage" xml:space="preserve">
+        <value>2615</value>
+    </data>
+    <data name="emoji_teacup_without_handle" xml:space="preserve">
+        <value>0001F375</value>
+    </data>
+    <data name="emoji_sake" xml:space="preserve">
+        <value>0001F376</value>
+    </data>
+    <data name="emoji_bottle_popping_cork" xml:space="preserve">
+        <value>0001F37E</value>
+    </data>
+    <data name="emoji_wine_glass" xml:space="preserve">
+        <value>0001F377</value>
+    </data>
+    <data name="emoji_cocktail_glass" xml:space="preserve">
+        <value>0001F378</value>
+    </data>
+    <data name="emoji_tropical_drink" xml:space="preserve">
+        <value>0001F379</value>
+    </data>
+    <data name="emoji_beer_mug" xml:space="preserve">
+        <value>0001F37A</value>
+    </data>
+    <data name="emoji_clinking_beer_mugs" xml:space="preserve">
+        <value>0001F37B</value>
+    </data>
+    <data name="emoji_clinking_glasses" xml:space="preserve">
+        <value>0001F942</value>
+    </data>
+    <data name="emoji_tumbler_glass" xml:space="preserve">
+        <value>0001F943</value>
+    </data>
+    <data name="emoji_cup_straw" xml:space="preserve">
+        <value>0001F964</value>
+    </data>
+    <data name="emoji_beverage_box" xml:space="preserve">
+        <value>0001F9C3</value>
+    </data>
+    <data name="emoji_mate" xml:space="preserve">
+        <value>0001F9C9</value>
+    </data>
+    <data name="emoji_ice" xml:space="preserve">
+        <value>0001F9CA</value>
+    </data>
+    <data name="emoji_chopsticks" xml:space="preserve">
+        <value>0001F962</value>
+    </data>
+    <data name="emoji_fork_and_knife_plate" xml:space="preserve">
+        <value>0001F37D</value>
+    </data>
+    <data name="emoji_fork_and_knife" xml:space="preserve">
+        <value>0001F374</value>
+    </data>
+    <data name="emoji_spoon" xml:space="preserve">
+        <value>0001F944</value>
+    </data>
+    <data name="emoji_kitchen_knife" xml:space="preserve">
+        <value>0001F52A</value>
+    </data>
+    <data name="emoji_amphora" xml:space="preserve">
+        <value>0001F3FA</value>
+    </data>
+    <data name="emoji_globe_showing_Europe_Africa" xml:space="preserve">
+        <value>0001F30D</value>
+    </data>
+    <data name="emoji_globe_showing_Americas" xml:space="preserve">
+        <value>0001F30E</value>
+    </data>
+    <data name="emoji_globe_showing_Asia_Australia" xml:space="preserve">
+        <value>0001F30F</value>
+    </data>
+    <data name="emoji_globe_meridians" xml:space="preserve">
+        <value>0001F310</value>
+    </data>
+    <data name="emoji_world_map" xml:space="preserve">
+        <value>0001F5FA</value>
+    </data>
+    <data name="emoji_map_of_Japan" xml:space="preserve">
+        <value>0001F5FE</value>
+    </data>
+    <data name="emoji_compass" xml:space="preserve">
+        <value>0001F9ED</value>
+    </data>
+    <data name="emoji_snow_capped_mountain" xml:space="preserve">
+        <value>0001F3D4</value>
+    </data>
+    <data name="emoji_mountain" xml:space="preserve">
+        <value>000026F0</value>
+    </data>
+    <data name="emoji_volcano" xml:space="preserve">
+        <value>0001F30B</value>
+    </data>
+    <data name="emoji_mount_fuji" xml:space="preserve">
+        <value>0001F5FB</value>
+    </data>
+    <data name="emoji_camping" xml:space="preserve">
+        <value>0001F3D5</value>
+    </data>
+    <data name="emoji_beach_umbrella" xml:space="preserve">
+        <value>0001F3D6</value>
+    </data>
+    <data name="emoji_desert" xml:space="preserve">
+        <value>0001F3DC</value>
+    </data>
+    <data name="emoji_desert_island" xml:space="preserve">
+        <value>0001F3DD</value>
+    </data>
+    <data name="emoji_national_park" xml:space="preserve">
+        <value>0001F3DE</value>
+    </data>
+    <data name="emoji_stadium" xml:space="preserve">
+        <value>0001F3DF</value>
+    </data>
+    <data name="emoji_classical_building" xml:space="preserve">
+        <value>0001F3DB</value>
+    </data>
+    <data name="emoji_building_construction" xml:space="preserve">
+        <value>0001F3D7</value>
+    </data>
+    <data name="emoji_brick" xml:space="preserve">
+        <value>0001F9F1</value>
+    </data>
+    <data name="emoji_houses" xml:space="preserve">
+        <value>0001F3D8</value>
+    </data>
+    <data name="emoji_derelict_house" xml:space="preserve">
+        <value>0001F3DA</value>
+    </data>
+    <data name="emoji_house" xml:space="preserve">
+        <value>0001F3E0</value>
+    </data>
+    <data name="emoji_house_garden" xml:space="preserve">
+        <value>0001F3E1</value>
+    </data>
+    <data name="emoji_office_building" xml:space="preserve">
+        <value>0001F3E2</value>
+    </data>
+    <data name="emoji_Japanese_post_office" xml:space="preserve">
+        <value>0001F3E3</value>
+    </data>
+    <data name="emoji_post_office" xml:space="preserve">
+        <value>0001F3E4</value>
+    </data>
+    <data name="emoji_hospital" xml:space="preserve">
+        <value>0001F3E5</value>
+    </data>
+    <data name="emoji_bank" xml:space="preserve">
+        <value>0001F3E6</value>
+    </data>
+    <data name="emoji_hotel" xml:space="preserve">
+        <value>0001F3E8</value>
+    </data>
+    <data name="emoji_love_hotel" xml:space="preserve">
+        <value>0001F3E9</value>
+    </data>
+    <data name="emoji_convenience_store" xml:space="preserve">
+        <value>0001F3EA</value>
+    </data>
+    <data name="emoji_school" xml:space="preserve">
+        <value>0001F3EB</value>
+    </data>
+    <data name="emoji_department_store" xml:space="preserve">
+        <value>0001F3EC</value>
+    </data>
+    <data name="emoji_factory" xml:space="preserve">
+        <value>0001F3ED</value>
+    </data>
+    <data name="emoji_Japanese_castle" xml:space="preserve">
+        <value>0001F3EF</value>
+    </data>
+    <data name="emoji_castle" xml:space="preserve">
+        <value>0001F3F0</value>
+    </data>
+    <data name="emoji_wedding" xml:space="preserve">
+        <value>0001F492</value>
+    </data>
+    <data name="emoji_Tokyo_tower" xml:space="preserve">
+        <value>0001F5FC</value>
+    </data>
+    <data name="emoji_Statue_of_Liberty" xml:space="preserve">
+        <value>0001F5FD</value>
+    </data>
+    <data name="emoji_church" xml:space="preserve">
+        <value>000026EA</value>
+    </data>
+    <data name="emoji_mosque" xml:space="preserve">
+        <value>0001F54C</value>
+    </data>
+    <data name="emoji_hindu_temple" xml:space="preserve">
+        <value>0001F6D5</value>
+    </data>
+    <data name="emoji_synagogue" xml:space="preserve">
+        <value>0001F54D</value>
+    </data>
+    <data name="emoji_kaaba" xml:space="preserve">
+        <value>0001F54B</value>
+    </data>
+    <data name="emoji_fountain" xml:space="preserve">
+        <value>000026F2</value>
+    </data>
+    <data name="emoji_tent" xml:space="preserve">
+        <value>000026FA</value>
+    </data>
+    <data name="emoji_foggy" xml:space="preserve">
+        <value>0001F301</value>
+    </data>
+    <data name="emoji_night_stars" xml:space="preserve">
+        <value>0001F303</value>
+    </data>
+    <data name="emoji_cityscape" xml:space="preserve">
+        <value>0001F3D9</value>
+    </data>
+    <data name="emoji_sunrise_over_mountains" xml:space="preserve">
+        <value>0001F304</value>
+    </data>
+    <data name="emoji_sunrise" xml:space="preserve">
+        <value>0001F305</value>
+    </data>
+    <data name="emoji_cityscape_at_dusk" xml:space="preserve">
+        <value>0001F306</value>
+    </data>
+    <data name="emoji_sunset" xml:space="preserve">
+        <value>0001F307</value>
+    </data>
+    <data name="emoji_bridge_at_night" xml:space="preserve">
+        <value>0001F309</value>
+    </data>
+    <data name="emoji_hot_springs" xml:space="preserve">
+        <value>00002668</value>
+    </data>
+    <data name="emoji_carousel_horse" xml:space="preserve">
+        <value>0001F3A0</value>
+    </data>
+    <data name="emoji_ferris_wheel" xml:space="preserve">
+        <value>0001F3A1</value>
+    </data>
+    <data name="emoji_roller_coaster" xml:space="preserve">
+        <value>0001F3A2</value>
+    </data>
+    <data name="emoji_barber_pole" xml:space="preserve">
+        <value>0001F488</value>
+    </data>
+    <data name="emoji_circus_tent" xml:space="preserve">
+        <value>0001F3AA</value>
+    </data>
+    <data name="emoji_locomotive" xml:space="preserve">
+        <value>0001F682</value>
+    </data>
+    <data name="emoji_railway_car" xml:space="preserve">
+        <value>0001F683</value>
+    </data>
+    <data name="emoji_high_speed_train" xml:space="preserve">
+        <value>0001F684</value>
+    </data>
+    <data name="emoji_bullet_train" xml:space="preserve">
+        <value>0001F685</value>
+    </data>
+    <data name="emoji_train" xml:space="preserve">
+        <value>0001F686</value>
+    </data>
+    <data name="emoji_metro" xml:space="preserve">
+        <value>0001F687</value>
+    </data>
+    <data name="emoji_light_rail" xml:space="preserve">
+        <value>0001F688</value>
+    </data>
+    <data name="emoji_station" xml:space="preserve">
+        <value>0001F689</value>
+    </data>
+    <data name="emoji_tram" xml:space="preserve">
+        <value>0001F68A</value>
+    </data>
+    <data name="emoji_monorail" xml:space="preserve">
+        <value>0001F69D</value>
+    </data>
+    <data name="emoji_mountain_railway" xml:space="preserve">
+        <value>0001F69E</value>
+    </data>
+    <data name="emoji_tram_car" xml:space="preserve">
+        <value>0001F68B</value>
+    </data>
+    <data name="emoji_bus" xml:space="preserve">
+        <value>0001F68C</value>
+    </data>
+    <data name="emoji_oncoming_bus" xml:space="preserve">
+        <value>0001F68D</value>
+    </data>
+    <data name="emoji_trolleybus" xml:space="preserve">
+        <value>0001F68E</value>
+    </data>
+    <data name="emoji_minibus" xml:space="preserve">
+        <value>0001F690</value>
+    </data>
+    <data name="emoji_ambulance" xml:space="preserve">
+        <value>0001F691</value>
+    </data>
+    <data name="emoji_fire_engine" xml:space="preserve">
+        <value>0001F692</value>
+    </data>
+    <data name="emoji_police_car" xml:space="preserve">
+        <value>0001F693</value>
+    </data>
+    <data name="emoji_oncoming_police_car" xml:space="preserve">
+        <value>0001F694</value>
+    </data>
+    <data name="emoji_taxi" xml:space="preserve">
+        <value>0001F695</value>
+    </data>
+    <data name="emoji_oncoming_taxi" xml:space="preserve">
+        <value>0001F696</value>
+    </data>
+    <data name="emoji_automobile" xml:space="preserve">
+        <value>0001F697</value>
+    </data>
+    <data name="emoji_oncoming_automobile" xml:space="preserve">
+        <value>0001F698</value>
+    </data>
+    <data name="emoji_sport_utility_vehicle" xml:space="preserve">
+        <value>0001F699</value>
+    </data>
+    <data name="emoji_delivery_truck" xml:space="preserve">
+        <value>0001F69A</value>
+    </data>
+    <data name="emoji_articulated_lorry" xml:space="preserve">
+        <value>0001F69B</value>
+    </data>
+    <data name="emoji_tractor" xml:space="preserve">
+        <value>0001F69C</value>
+    </data>
+    <data name="emoji_racing_car" xml:space="preserve">
+        <value>0001F3CE</value>
+    </data>
+    <data name="emoji_motorcycle" xml:space="preserve">
+        <value>0001F3CD</value>
+    </data>
+    <data name="emoji_motor_scooter" xml:space="preserve">
+        <value>0001F6F5</value>
+    </data>
+    <data name="emoji_manual_wheelchair" xml:space="preserve">
+        <value>0001F9BD</value>
+    </data>
+    <data name="emoji_motorized_wheelchair" xml:space="preserve">
+        <value>0001F9BC</value>
+    </data>
+    <data name="emoji_auto_rickshaw" xml:space="preserve">
+        <value>0001F6FA</value>
+    </data>
+    <data name="emoji_bicycle" xml:space="preserve">
+        <value>0001F6B2</value>
+    </data>
+    <data name="emoji_kick_scooter" xml:space="preserve">
+        <value>0001F6F4</value>
+    </data>
+    <data name="emoji_skateboard" xml:space="preserve">
+        <value>0001F6F9</value>
+    </data>
+    <data name="emoji_bus_stop" xml:space="preserve">
+        <value>0001F68F</value>
+    </data>
+    <data name="emoji_motorway" xml:space="preserve">
+        <value>0001F6E3</value>
+    </data>
+    <data name="emoji_railway_track" xml:space="preserve">
+        <value>0001F6E4</value>
+    </data>
+    <data name="emoji_oil_drum" xml:space="preserve">
+        <value>0001F6E2</value>
+    </data>
+    <data name="emoji_fuel_pump" xml:space="preserve">
+        <value>000026FD</value>
+    </data>
+    <data name="emoji_police_car_light" xml:space="preserve">
+        <value>0001F6A8</value>
+    </data>
+    <data name="emoji_horizontal_traffic_light" xml:space="preserve">
+        <value>0001F6A5</value>
+    </data>
+    <data name="emoji_vertical_traffic_light" xml:space="preserve">
+        <value>0001F6A6</value>
+    </data>
+    <data name="emoji_stop_sign" xml:space="preserve">
+        <value>0001F6D1</value>
+    </data>
+    <data name="emoji_construction" xml:space="preserve">
+        <value>0001F6A7</value>
+    </data>
+    <data name="emoji_anchor" xml:space="preserve">
+        <value>00002693</value>
+    </data>
+    <data name="emoji_sailboat" xml:space="preserve">
+        <value>000026F5</value>
+    </data>
+    <data name="emoji_canoe" xml:space="preserve">
+        <value>0001F6F6</value>
+    </data>
+    <data name="emoji_speedboat" xml:space="preserve">
+        <value>0001F6A4</value>
+    </data>
+    <data name="emoji_passenger_ship" xml:space="preserve">
+        <value>0001F6F3</value>
+    </data>
+    <data name="emoji_ferry" xml:space="preserve">
+        <value>000026F4</value>
+    </data>
+    <data name="emoji_motor_boat" xml:space="preserve">
+        <value>0001F6E5</value>
+    </data>
+    <data name="emoji_ship" xml:space="preserve">
+        <value>0001F6A2</value>
+    </data>
+    <data name="emoji_airplane" xml:space="preserve">
+        <value>00002708</value>
+    </data>
+    <data name="emoji_small_airplane" xml:space="preserve">
+        <value>0001F6E9</value>
+    </data>
+    <data name="emoji_airplane_departure" xml:space="preserve">
+        <value>0001F6EB</value>
+    </data>
+    <data name="emoji_airplane_arrival" xml:space="preserve">
+        <value>0001F6EC</value>
+    </data>
+    <data name="emoji_parachute" xml:space="preserve">
+        <value>0001FA82</value>
+    </data>
+    <data name="emoji_seat" xml:space="preserve">
+        <value>0001F4BA</value>
+    </data>
+    <data name="emoji_helicopter" xml:space="preserve">
+        <value>0001F681</value>
+    </data>
+    <data name="emoji_suspension_railway" xml:space="preserve">
+        <value>0001F69F</value>
+    </data>
+    <data name="emoji_mountain_cableway" xml:space="preserve">
+        <value>0001F6A0</value>
+    </data>
+    <data name="emoji_aerial_tramway" xml:space="preserve">
+        <value>0001F6A1</value>
+    </data>
+    <data name="emoji_satellite" xml:space="preserve">
+        <value>0001F6F0</value>
+    </data>
+    <data name="emoji_rocket" xml:space="preserve">
+        <value>0001F680</value>
+    </data>
+    <data name="emoji_flying_saucer" xml:space="preserve">
+        <value>0001F6F8</value>
+    </data>
+    <data name="emoji_bellhop_bell" xml:space="preserve">
+        <value>0001F6CE</value>
+    </data>
+    <data name="emoji_luggage" xml:space="preserve">
+        <value>0001F9F3</value>
+    </data>
+    <data name="emoji_hourglass_done" xml:space="preserve">
+        <value>0000231B</value>
+    </data>
+    <data name="emoji_hourglass_not_done" xml:space="preserve">
+        <value>000023F3</value>
+    </data>
+    <data name="emoji_watch" xml:space="preserve">
+        <value>0000231A</value>
+    </data>
+    <data name="emoji_alarm_clock" xml:space="preserve">
+        <value>000023F0</value>
+    </data>
+    <data name="emoji_stopwatch" xml:space="preserve">
+        <value>000023F1</value>
+    </data>
+    <data name="emoji_timer_clock" xml:space="preserve">
+        <value>000023F2</value>
+    </data>
+    <data name="emoji_mantelpiece_clock" xml:space="preserve">
+        <value>0001F570</value>
+    </data>
+    <data name="emoji_twelve_o_clock" xml:space="preserve">
+        <value>0001F55B</value>
+    </data>
+    <data name="emoji_twelve_thirty" xml:space="preserve">
+        <value>0001F567</value>
+    </data>
+    <data name="emoji_one_o_clock" xml:space="preserve">
+        <value>0001F550</value>
+    </data>
+    <data name="emoji_one_thirty" xml:space="preserve">
+        <value>0001F55C</value>
+    </data>
+    <data name="emoji_two_o_clock" xml:space="preserve">
+        <value>0001F551</value>
+    </data>
+    <data name="emoji_two_thirty" xml:space="preserve">
+        <value>0001F55D</value>
+    </data>
+    <data name="emoji_three_o_clock" xml:space="preserve">
+        <value>0001F552</value>
+    </data>
+    <data name="emoji_three_thirty" xml:space="preserve">
+        <value>0001F55E</value>
+    </data>
+    <data name="emoji_four_o_clock" xml:space="preserve">
+        <value>0001F553</value>
+    </data>
+    <data name="emoji_four_thirty" xml:space="preserve">
+        <value>0001F55F</value>
+    </data>
+    <data name="emoji_five_o_clock" xml:space="preserve">
+        <value>0001F554</value>
+    </data>
+    <data name="emoji_five_thirty" xml:space="preserve">
+        <value>0001F560</value>
+    </data>
+    <data name="emoji_six_o_clock" xml:space="preserve">
+        <value>0001F555</value>
+    </data>
+    <data name="emoji_six_thirty" xml:space="preserve">
+        <value>0001F561</value>
+    </data>
+    <data name="emoji_seven_o_clock" xml:space="preserve">
+        <value>0001F556</value>
+    </data>
+    <data name="emoji_seven_thirty" xml:space="preserve">
+        <value>0001F562</value>
+    </data>
+    <data name="emoji_eight_o_clock" xml:space="preserve">
+        <value>0001F557</value>
+    </data>
+    <data name="emoji_eight_thirty" xml:space="preserve">
+        <value>0001F563</value>
+    </data>
+    <data name="emoji_nine_o_clock" xml:space="preserve">
+        <value>0001F558</value>
+    </data>
+    <data name="emoji_nine_thirty" xml:space="preserve">
+        <value>0001F564</value>
+    </data>
+    <data name="emoji_ten_o_clock" xml:space="preserve">
+        <value>0001F559</value>
+    </data>
+    <data name="emoji_ten_thirty" xml:space="preserve">
+        <value>0001F565</value>
+    </data>
+    <data name="emoji_eleven_o_clock" xml:space="preserve">
+        <value>0001F55A</value>
+    </data>
+    <data name="emoji_eleven_thirty" xml:space="preserve">
+        <value>0001F566</value>
+    </data>
+    <data name="emoji_new_moon" xml:space="preserve">
+        <value>0001F311</value>
+    </data>
+    <data name="emoji_waxing_crescent_moon" xml:space="preserve">
+        <value>0001F312</value>
+    </data>
+    <data name="emoji_first_quarter_moon" xml:space="preserve">
+        <value>0001F313</value>
+    </data>
+    <data name="emoji_waxing_gibbous_moon" xml:space="preserve">
+        <value>0001F314</value>
+    </data>
+    <data name="emoji_full_moon" xml:space="preserve">
+        <value>0001F315</value>
+    </data>
+    <data name="emoji_waning_gibbous_moon" xml:space="preserve">
+        <value>0001F316</value>
+    </data>
+    <data name="emoji_last_quarter_moon" xml:space="preserve">
+        <value>0001F317</value>
+    </data>
+    <data name="emoji_waning_crescent_moon" xml:space="preserve">
+        <value>0001F318</value>
+    </data>
+    <data name="emoji_crescent_moon" xml:space="preserve">
+        <value>0001F319</value>
+    </data>
+    <data name="emoji_new_moon_face" xml:space="preserve">
+        <value>0001F31A</value>
+    </data>
+    <data name="emoji_first_quarter_moon_face" xml:space="preserve">
+        <value>0001F31B</value>
+    </data>
+    <data name="emoji_last_quarter_moon_face" xml:space="preserve">
+        <value>0001F31C</value>
+    </data>
+    <data name="emoji_thermometer" xml:space="preserve">
+        <value>0001F321</value>
+    </data>
+    <data name="emoji_sun" xml:space="preserve">
+        <value>00002600</value>
+    </data>
+    <data name="emoji_full_moon_face" xml:space="preserve">
+        <value>0001F31D</value>
+    </data>
+    <data name="emoji_sun_face" xml:space="preserve">
+        <value>0001F31E</value>
+    </data>
+    <data name="emoji_ringed_planet" xml:space="preserve">
+        <value>0001FA90</value>
+    </data>
+    <data name="emoji_star" xml:space="preserve">
+        <value>00002B50</value>
+    </data>
+    <data name="emoji_glowing_star" xml:space="preserve">
+        <value>0001F31F</value>
+    </data>
+    <data name="emoji_shooting_star" xml:space="preserve">
+        <value>0001F320</value>
+    </data>
+    <data name="emoji_milky_way" xml:space="preserve">
+        <value>0001F30C</value>
+    </data>
+    <data name="emoji_cloud" xml:space="preserve">
+        <value>00002601</value>
+    </data>
+    <data name="emoji_sun_behind_cloud" xml:space="preserve">
+        <value>000026C5</value>
+    </data>
+    <data name="emoji_cloud_lightning_and_rain" xml:space="preserve">
+        <value>000026C8</value>
+    </data>
+    <data name="emoji_sun_behind_small_cloud" xml:space="preserve">
+        <value>0001F324</value>
+    </data>
+    <data name="emoji_sun_behind_large_cloud" xml:space="preserve">
+        <value>0001F325</value>
+    </data>
+    <data name="emoji_sun_behind_rain_cloud" xml:space="preserve">
+        <value>0001F326</value>
+    </data>
+    <data name="emoji_cloud_rain" xml:space="preserve">
+        <value>0001F327</value>
+    </data>
+    <data name="emoji_cloud_snow" xml:space="preserve">
+        <value>0001F328</value>
+    </data>
+    <data name="emoji_cloud_lightning" xml:space="preserve">
+        <value>0001F329</value>
+    </data>
+    <data name="emoji_tornado" xml:space="preserve">
+        <value>0001F32A</value>
+    </data>
+    <data name="emoji_fog" xml:space="preserve">
+        <value>0001F32B</value>
+    </data>
+    <data name="emoji_wind_face" xml:space="preserve">
+        <value>0001F32C</value>
+    </data>
+    <data name="emoji_cyclone" xml:space="preserve">
+        <value>0001F300</value>
+    </data>
+    <data name="emoji_rainbow" xml:space="preserve">
+        <value>0001F308</value>
+    </data>
+    <data name="emoji_closed_umbrella" xml:space="preserve">
+        <value>0001F302</value>
+    </data>
+    <data name="emoji_umbrella" xml:space="preserve">
+        <value>00002602</value>
+    </data>
+    <data name="emoji_umbrella_rain_drops" xml:space="preserve">
+        <value>00002614</value>
+    </data>
+    <data name="emoji_umbrella_on_ground" xml:space="preserve">
+        <value>000026F1</value>
+    </data>
+    <data name="emoji_high_voltage" xml:space="preserve">
+        <value>000026A1</value>
+    </data>
+    <data name="emoji_snowflake" xml:space="preserve">
+        <value>00002744</value>
+    </data>
+    <data name="emoji_snowman" xml:space="preserve">
+        <value>00002603</value>
+    </data>
+    <data name="emoji_snowman_without_snow" xml:space="preserve">
+        <value>000026C4</value>
+    </data>
+    <data name="emoji_comet" xml:space="preserve">
+        <value>00002604</value>
+    </data>
+    <data name="emoji_fire" xml:space="preserve">
+        <value>0001F525</value>
+    </data>
+    <data name="emoji_droplet" xml:space="preserve">
+        <value>0001F4A7</value>
+    </data>
+    <data name="emoji_water_wave" xml:space="preserve">
+        <value>0001F30A</value>
+    </data>
+    <data name="emoji_jack_o_lantern" xml:space="preserve">
+        <value>0001F383</value>
+    </data>
+    <data name="emoji_Christmas_tree" xml:space="preserve">
+        <value>0001F384</value>
+    </data>
+    <data name="emoji_fireworks" xml:space="preserve">
+        <value>0001F386</value>
+    </data>
+    <data name="emoji_sparkler" xml:space="preserve">
+        <value>0001F387</value>
+    </data>
+    <data name="emoji_firecracker" xml:space="preserve">
+        <value>0001F9E8</value>
+    </data>
+    <data name="emoji_sparkles" xml:space="preserve">
+        <value>00002728</value>
+    </data>
+    <data name="emoji_balloon" xml:space="preserve">
+        <value>0001F388</value>
+    </data>
+    <data name="emoji_party_popper" xml:space="preserve">
+        <value>0001F389</value>
+    </data>
+    <data name="emoji_confetti_ball" xml:space="preserve">
+        <value>0001F38A</value>
+    </data>
+    <data name="emoji_tanabata_tree" xml:space="preserve">
+        <value>0001F38B</value>
+    </data>
+    <data name="emoji_pine_decoration" xml:space="preserve">
+        <value>0001F38D</value>
+    </data>
+    <data name="emoji_Japanese_dolls" xml:space="preserve">
+        <value>0001F38E</value>
+    </data>
+    <data name="emoji_carp_streamer" xml:space="preserve">
+        <value>0001F38F</value>
+    </data>
+    <data name="emoji_wind_chime" xml:space="preserve">
+        <value>0001F390</value>
+    </data>
+    <data name="emoji_moon_viewing_ceremony" xml:space="preserve">
+        <value>0001F391</value>
+    </data>
+    <data name="emoji_red_envelope" xml:space="preserve">
+        <value>0001F9E7</value>
+    </data>
+    <data name="emoji_ribbon" xml:space="preserve">
+        <value>0001F380</value>
+    </data>
+    <data name="emoji_wrapped_gift" xml:space="preserve">
+        <value>0001F381</value>
+    </data>
+    <data name="emoji_reminder_ribbon" xml:space="preserve">
+        <value>0001F397</value>
+    </data>
+    <data name="emoji_admission_tickets" xml:space="preserve">
+        <value>0001F39F</value>
+    </data>
+    <data name="emoji_ticket" xml:space="preserve">
+        <value>0001F3AB</value>
+    </data>
+    <data name="emoji_military_medal" xml:space="preserve">
+        <value>0001F396</value>
+    </data>
+    <data name="emoji_trophy" xml:space="preserve">
+        <value>0001F3C6</value>
+    </data>
+    <data name="emoji_sports_medal" xml:space="preserve">
+        <value>0001F3C5</value>
+    </data>
+    <data name="emoji_1st_place_medal" xml:space="preserve">
+        <value>0001F947</value>
+    </data>
+    <data name="emoji_2nd_place_medal" xml:space="preserve">
+        <value>0001F948</value>
+    </data>
+    <data name="emoji_3rd_place_medal" xml:space="preserve">
+        <value>0001F949</value>
+    </data>
+    <data name="emoji_soccer_ball" xml:space="preserve">
+        <value>000026BD</value>
+    </data>
+    <data name="emoji_baseball" xml:space="preserve">
+        <value>000026BE</value>
+    </data>
+    <data name="emoji_softball" xml:space="preserve">
+        <value>0001F94E</value>
+    </data>
+    <data name="emoji_basketball" xml:space="preserve">
+        <value>0001F3C0</value>
+    </data>
+    <data name="emoji_volleyball" xml:space="preserve">
+        <value>0001F3D0</value>
+    </data>
+    <data name="emoji_american_football" xml:space="preserve">
+        <value>0001F3C8</value>
+    </data>
+    <data name="emoji_rugby_football" xml:space="preserve">
+        <value>0001F3C9</value>
+    </data>
+    <data name="emoji_tennis" xml:space="preserve">
+        <value>0001F3BE</value>
+    </data>
 </root>

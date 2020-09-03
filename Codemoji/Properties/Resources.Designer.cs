@@ -61,6 +61,87 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F947.
+        /// </summary>
+        internal static string emoji_1st_place_medal {
+            get {
+                return ResourceManager.GetString("emoji_1st_place_medal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F948.
+        /// </summary>
+        internal static string emoji_2nd_place_medal {
+            get {
+                return ResourceManager.GetString("emoji_2nd_place_medal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F949.
+        /// </summary>
+        internal static string emoji_3rd_place_medal {
+            get {
+                return ResourceManager.GetString("emoji_3rd_place_medal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F39F.
+        /// </summary>
+        internal static string emoji_admission_tickets {
+            get {
+                return ResourceManager.GetString("emoji_admission_tickets", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6A1.
+        /// </summary>
+        internal static string emoji_aerial_tramway {
+            get {
+                return ResourceManager.GetString("emoji_aerial_tramway", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002708.
+        /// </summary>
+        internal static string emoji_airplane {
+            get {
+                return ResourceManager.GetString("emoji_airplane", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6EC.
+        /// </summary>
+        internal static string emoji_airplane_arrival {
+            get {
+                return ResourceManager.GetString("emoji_airplane_arrival", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6EB.
+        /// </summary>
+        internal static string emoji_airplane_departure {
+            get {
+                return ResourceManager.GetString("emoji_airplane_departure", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000023F0.
+        /// </summary>
+        internal static string emoji_alarm_clock {
+            get {
+                return ResourceManager.GetString("emoji_alarm_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F47D.
         /// </summary>
         internal static string emoji_alien {
@@ -75,6 +156,42 @@ namespace Codemoji.Properties {
         internal static string emoji_alien_monster {
             get {
                 return ResourceManager.GetString("emoji_alien_monster", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F691.
+        /// </summary>
+        internal static string emoji_ambulance {
+            get {
+                return ResourceManager.GetString("emoji_ambulance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3C8.
+        /// </summary>
+        internal static string emoji_american_football {
+            get {
+                return ResourceManager.GetString("emoji_american_football", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3FA.
+        /// </summary>
+        internal static string emoji_amphora {
+            get {
+                return ResourceManager.GetString("emoji_amphora", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002693.
+        /// </summary>
+        internal static string emoji_anchor {
+            get {
+                return ResourceManager.GetString("emoji_anchor", resourceCulture);
             }
         }
         
@@ -99,9 +216,9 @@ namespace Codemoji.Properties {
         /// <summary>
         ///   Looks up a localized string similar to 0001F47F.
         /// </summary>
-        internal static string emoji_angry_face_with_horns {
+        internal static string emoji_angry_face_horns {
             get {
-                return ResourceManager.GetString("emoji_angry_face_with_horns", resourceCulture);
+                return ResourceManager.GetString("emoji_angry_face_horns", resourceCulture);
             }
         }
         
@@ -115,11 +232,29 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F41C.
+        /// </summary>
+        internal static string emoji_ant {
+            get {
+                return ResourceManager.GetString("emoji_ant", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F630.
         /// </summary>
-        internal static string emoji_anxious_face_with_sweat {
+        internal static string emoji_anxious_face_sweat {
             get {
-                return ResourceManager.GetString("emoji_anxious_face_with_sweat", resourceCulture);
+                return ResourceManager.GetString("emoji_anxious_face_sweat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F69B.
+        /// </summary>
+        internal static string emoji_articulated_lorry {
+            get {
+                return ResourceManager.GetString("emoji_articulated_lorry", resourceCulture);
             }
         }
         
@@ -133,11 +268,173 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F6FA.
+        /// </summary>
+        internal static string emoji_auto_rickshaw {
+            get {
+                return ResourceManager.GetString("emoji_auto_rickshaw", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F697.
+        /// </summary>
+        internal static string emoji_automobile {
+            get {
+                return ResourceManager.GetString("emoji_automobile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F951.
+        /// </summary>
+        internal static string emoji_avocado {
+            get {
+                return ResourceManager.GetString("emoji_avocado", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F37C.
+        /// </summary>
+        internal static string emoji_baby_bottle {
+            get {
+                return ResourceManager.GetString("emoji_baby_bottle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F424.
+        /// </summary>
+        internal static string emoji_baby_chick {
+            get {
+                return ResourceManager.GetString("emoji_baby_chick", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F953.
+        /// </summary>
+        internal static string emoji_bacon {
+            get {
+                return ResourceManager.GetString("emoji_bacon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9A1.
+        /// </summary>
+        internal static string emoji_badger {
+            get {
+                return ResourceManager.GetString("emoji_badger", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F96F.
+        /// </summary>
+        internal static string emoji_bagel {
+            get {
+                return ResourceManager.GetString("emoji_bagel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F956.
+        /// </summary>
+        internal static string emoji_baguette_bread {
+            get {
+                return ResourceManager.GetString("emoji_baguette_bread", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F388.
+        /// </summary>
+        internal static string emoji_balloon {
+            get {
+                return ResourceManager.GetString("emoji_balloon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F34C.
+        /// </summary>
+        internal static string emoji_banana {
+            get {
+                return ResourceManager.GetString("emoji_banana", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3E6.
+        /// </summary>
+        internal static string emoji_bank {
+            get {
+                return ResourceManager.GetString("emoji_bank", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F488.
+        /// </summary>
+        internal static string emoji_barber_pole {
+            get {
+                return ResourceManager.GetString("emoji_barber_pole", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026BE.
+        /// </summary>
+        internal static string emoji_baseball {
+            get {
+                return ResourceManager.GetString("emoji_baseball", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3C0.
+        /// </summary>
+        internal static string emoji_basketball {
+            get {
+                return ResourceManager.GetString("emoji_basketball", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F987.
+        /// </summary>
+        internal static string emoji_bat {
+            get {
+                return ResourceManager.GetString("emoji_bat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3D6.
+        /// </summary>
+        internal static string emoji_beach_umbrella {
+            get {
+                return ResourceManager.GetString("emoji_beach_umbrella", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F601.
         /// </summary>
-        internal static string emoji_beaming_face_with_smiling_eyes {
+        internal static string emoji_beaming_face_smiling_eyes {
             get {
-                return ResourceManager.GetString("emoji_beaming_face_with_smiling_eyes", resourceCulture);
+                return ResourceManager.GetString("emoji_beaming_face_smiling_eyes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F43B.
+        /// </summary>
+        internal static string emoji_bear {
+            get {
+                return ResourceManager.GetString("emoji_bear", resourceCulture);
             }
         }
         
@@ -151,6 +448,69 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F37A.
+        /// </summary>
+        internal static string emoji_beer_mug {
+            get {
+                return ResourceManager.GetString("emoji_beer_mug", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6CE.
+        /// </summary>
+        internal static string emoji_bellhop_bell {
+            get {
+                return ResourceManager.GetString("emoji_bellhop_bell", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F371.
+        /// </summary>
+        internal static string emoji_bento_box {
+            get {
+                return ResourceManager.GetString("emoji_bento_box", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9C3.
+        /// </summary>
+        internal static string emoji_beverage_box {
+            get {
+                return ResourceManager.GetString("emoji_beverage_box", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6B2.
+        /// </summary>
+        internal static string emoji_bicycle {
+            get {
+                return ResourceManager.GetString("emoji_bicycle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F426.
+        /// </summary>
+        internal static string emoji_bird {
+            get {
+                return ResourceManager.GetString("emoji_bird", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F382.
+        /// </summary>
+        internal static string emoji_birthday_cake {
+            get {
+                return ResourceManager.GetString("emoji_birthday_cake", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F5A4.
         /// </summary>
         internal static string emoji_black_heart {
@@ -160,11 +520,128 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F33C.
+        /// </summary>
+        internal static string emoji_blossom {
+            get {
+                return ResourceManager.GetString("emoji_blossom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F421.
+        /// </summary>
+        internal static string emoji_blowfish {
+            get {
+                return ResourceManager.GetString("emoji_blowfish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F499.
         /// </summary>
         internal static string emoji_blue_heart {
             get {
                 return ResourceManager.GetString("emoji_blue_heart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F417.
+        /// </summary>
+        internal static string emoji_boar {
+            get {
+                return ResourceManager.GetString("emoji_boar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F4A3.
+        /// </summary>
+        internal static string emoji_bomb {
+            get {
+                return ResourceManager.GetString("emoji_bomb", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9B4.
+        /// </summary>
+        internal static string emoji_bone {
+            get {
+                return ResourceManager.GetString("emoji_bone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F37E.
+        /// </summary>
+        internal static string emoji_bottle_popping_cork {
+            get {
+                return ResourceManager.GetString("emoji_bottle_popping_cork", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F490.
+        /// </summary>
+        internal static string emoji_bouquet {
+            get {
+                return ResourceManager.GetString("emoji_bouquet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F963.
+        /// </summary>
+        internal static string emoji_bowl_spoon {
+            get {
+                return ResourceManager.GetString("emoji_bowl_spoon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9E0.
+        /// </summary>
+        internal static string emoji_brain {
+            get {
+                return ResourceManager.GetString("emoji_brain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F35E.
+        /// </summary>
+        internal static string emoji_bread {
+            get {
+                return ResourceManager.GetString("emoji_bread", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9F1.
+        /// </summary>
+        internal static string emoji_brick {
+            get {
+                return ResourceManager.GetString("emoji_brick", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F309.
+        /// </summary>
+        internal static string emoji_bridge_at_night {
+            get {
+                return ResourceManager.GetString("emoji_bridge_at_night", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F966.
+        /// </summary>
+        internal static string emoji_broccoli {
+            get {
+                return ResourceManager.GetString("emoji_broccoli", resourceCulture);
             }
         }
         
@@ -187,20 +664,398 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F41B.
+        /// </summary>
+        internal static string emoji_bug {
+            get {
+                return ResourceManager.GetString("emoji_bug", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3D7.
+        /// </summary>
+        internal static string emoji_building_construction {
+            get {
+                return ResourceManager.GetString("emoji_building_construction", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F685.
+        /// </summary>
+        internal static string emoji_bullet_train {
+            get {
+                return ResourceManager.GetString("emoji_bullet_train", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F32F.
+        /// </summary>
+        internal static string emoji_burrito {
+            get {
+                return ResourceManager.GetString("emoji_burrito", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F68C.
+        /// </summary>
+        internal static string emoji_bus {
+            get {
+                return ResourceManager.GetString("emoji_bus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F68F.
+        /// </summary>
+        internal static string emoji_bus_stop {
+            get {
+                return ResourceManager.GetString("emoji_bus_stop", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9C8.
+        /// </summary>
+        internal static string emoji_butter {
+            get {
+                return ResourceManager.GetString("emoji_butter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F98B.
+        /// </summary>
+        internal static string emoji_butterfly {
+            get {
+                return ResourceManager.GetString("emoji_butterfly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F335.
+        /// </summary>
+        internal static string emoji_cactus {
+            get {
+                return ResourceManager.GetString("emoji_cactus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F42A.
+        /// </summary>
+        internal static string emoji_camel {
+            get {
+                return ResourceManager.GetString("emoji_camel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3D5.
+        /// </summary>
+        internal static string emoji_camping {
+            get {
+                return ResourceManager.GetString("emoji_camping", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F36C.
+        /// </summary>
+        internal static string emoji_candy {
+            get {
+                return ResourceManager.GetString("emoji_candy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F96B.
+        /// </summary>
+        internal static string emoji_canned_food {
+            get {
+                return ResourceManager.GetString("emoji_canned_food", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6F6.
+        /// </summary>
+        internal static string emoji_canoe {
+            get {
+                return ResourceManager.GetString("emoji_canoe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3A0.
+        /// </summary>
+        internal static string emoji_carousel_horse {
+            get {
+                return ResourceManager.GetString("emoji_carousel_horse", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F38F.
+        /// </summary>
+        internal static string emoji_carp_streamer {
+            get {
+                return ResourceManager.GetString("emoji_carp_streamer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F955.
+        /// </summary>
+        internal static string emoji_carrot {
+            get {
+                return ResourceManager.GetString("emoji_carrot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3F0.
+        /// </summary>
+        internal static string emoji_castle {
+            get {
+                return ResourceManager.GetString("emoji_castle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F408.
+        /// </summary>
+        internal static string emoji_cat {
+            get {
+                return ResourceManager.GetString("emoji_cat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F431.
+        /// </summary>
+        internal static string emoji_cat_face {
+            get {
+                return ResourceManager.GetString("emoji_cat_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F639.
         /// </summary>
-        internal static string emoji_cat_with_tears_of_joy {
+        internal static string emoji_cat_tears_of_joy {
             get {
-                return ResourceManager.GetString("emoji_cat_with_tears_of_joy", resourceCulture);
+                return ResourceManager.GetString("emoji_cat_tears_of_joy", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to 0001F63C.
         /// </summary>
-        internal static string emoji_cat_with_wry_smile {
+        internal static string emoji_cat_wry_smile {
             get {
-                return ResourceManager.GetString("emoji_cat_with_wry_smile", resourceCulture);
+                return ResourceManager.GetString("emoji_cat_wry_smile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9C0.
+        /// </summary>
+        internal static string emoji_cheese_wedge {
+            get {
+                return ResourceManager.GetString("emoji_cheese_wedge", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F352.
+        /// </summary>
+        internal static string emoji_cherries {
+            get {
+                return ResourceManager.GetString("emoji_cherries", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F338.
+        /// </summary>
+        internal static string emoji_cherry_blossom {
+            get {
+                return ResourceManager.GetString("emoji_cherry_blossom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F330.
+        /// </summary>
+        internal static string emoji_chestnut {
+            get {
+                return ResourceManager.GetString("emoji_chestnut", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F414.
+        /// </summary>
+        internal static string emoji_chicken {
+            get {
+                return ResourceManager.GetString("emoji_chicken", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F43F.
+        /// </summary>
+        internal static string emoji_chipmunk {
+            get {
+                return ResourceManager.GetString("emoji_chipmunk", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F36B.
+        /// </summary>
+        internal static string emoji_chocolate_bar {
+            get {
+                return ResourceManager.GetString("emoji_chocolate_bar", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F962.
+        /// </summary>
+        internal static string emoji_chopsticks {
+            get {
+                return ResourceManager.GetString("emoji_chopsticks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F384.
+        /// </summary>
+        internal static string emoji_Christmas_tree {
+            get {
+                return ResourceManager.GetString("emoji_Christmas_tree", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026EA.
+        /// </summary>
+        internal static string emoji_church {
+            get {
+                return ResourceManager.GetString("emoji_church", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3AA.
+        /// </summary>
+        internal static string emoji_circus_tent {
+            get {
+                return ResourceManager.GetString("emoji_circus_tent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3D9.
+        /// </summary>
+        internal static string emoji_cityscape {
+            get {
+                return ResourceManager.GetString("emoji_cityscape", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F306.
+        /// </summary>
+        internal static string emoji_cityscape_at_dusk {
+            get {
+                return ResourceManager.GetString("emoji_cityscape_at_dusk", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3DB.
+        /// </summary>
+        internal static string emoji_classical_building {
+            get {
+                return ResourceManager.GetString("emoji_classical_building", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F37B.
+        /// </summary>
+        internal static string emoji_clinking_beer_mugs {
+            get {
+                return ResourceManager.GetString("emoji_clinking_beer_mugs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F942.
+        /// </summary>
+        internal static string emoji_clinking_glasses {
+            get {
+                return ResourceManager.GetString("emoji_clinking_glasses", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F302.
+        /// </summary>
+        internal static string emoji_closed_umbrella {
+            get {
+                return ResourceManager.GetString("emoji_closed_umbrella", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002601.
+        /// </summary>
+        internal static string emoji_cloud {
+            get {
+                return ResourceManager.GetString("emoji_cloud", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F329.
+        /// </summary>
+        internal static string emoji_cloud_lightning {
+            get {
+                return ResourceManager.GetString("emoji_cloud_lightning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026C8.
+        /// </summary>
+        internal static string emoji_cloud_lightning_and_rain {
+            get {
+                return ResourceManager.GetString("emoji_cloud_lightning_and_rain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F327.
+        /// </summary>
+        internal static string emoji_cloud_rain {
+            get {
+                return ResourceManager.GetString("emoji_cloud_rain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F328.
+        /// </summary>
+        internal static string emoji_cloud_snow {
+            get {
+                return ResourceManager.GetString("emoji_cloud_snow", resourceCulture);
             }
         }
         
@@ -210,6 +1065,24 @@ namespace Codemoji.Properties {
         internal static string emoji_clown_face {
             get {
                 return ResourceManager.GetString("emoji_clown_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F378.
+        /// </summary>
+        internal static string emoji_cocktail_glass {
+            get {
+                return ResourceManager.GetString("emoji_cocktail_glass", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F965.
+        /// </summary>
+        internal static string emoji_coconut {
+            get {
+                return ResourceManager.GetString("emoji_coconut", resourceCulture);
             }
         }
         
@@ -232,6 +1105,33 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 00002604.
+        /// </summary>
+        internal static string emoji_comet {
+            get {
+                return ResourceManager.GetString("emoji_comet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9ED.
+        /// </summary>
+        internal static string emoji_compass {
+            get {
+                return ResourceManager.GetString("emoji_compass", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F38A.
+        /// </summary>
+        internal static string emoji_confetti_ball {
+            get {
+                return ResourceManager.GetString("emoji_confetti_ball", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F616.
         /// </summary>
         internal static string emoji_confounded_face {
@@ -250,11 +1150,119 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F6A7.
+        /// </summary>
+        internal static string emoji_construction {
+            get {
+                return ResourceManager.GetString("emoji_construction", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3EA.
+        /// </summary>
+        internal static string emoji_convenience_store {
+            get {
+                return ResourceManager.GetString("emoji_convenience_store", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F35A.
+        /// </summary>
+        internal static string emoji_cooked_rice {
+            get {
+                return ResourceManager.GetString("emoji_cooked_rice", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F36A.
+        /// </summary>
+        internal static string emoji_cookie {
+            get {
+                return ResourceManager.GetString("emoji_cookie", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F373.
+        /// </summary>
+        internal static string emoji_cooking {
+            get {
+                return ResourceManager.GetString("emoji_cooking", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F404.
+        /// </summary>
+        internal static string emoji_cow {
+            get {
+                return ResourceManager.GetString("emoji_cow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F42E.
+        /// </summary>
+        internal static string emoji_cow_face {
+            get {
+                return ResourceManager.GetString("emoji_cow_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F920.
         /// </summary>
         internal static string emoji_cowboy_hat_face {
             get {
                 return ResourceManager.GetString("emoji_cowboy_hat_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F980.
+        /// </summary>
+        internal static string emoji_crab {
+            get {
+                return ResourceManager.GetString("emoji_crab", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F319.
+        /// </summary>
+        internal static string emoji_crescent_moon {
+            get {
+                return ResourceManager.GetString("emoji_crescent_moon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F997.
+        /// </summary>
+        internal static string emoji_cricket {
+            get {
+                return ResourceManager.GetString("emoji_cricket", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F40A.
+        /// </summary>
+        internal static string emoji_crocodile {
+            get {
+                return ResourceManager.GetString("emoji_crocodile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F950.
+        /// </summary>
+        internal static string emoji_croissant {
+            get {
+                return ResourceManager.GetString("emoji_croissant", resourceCulture);
             }
         }
         
@@ -277,6 +1285,150 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F952.
+        /// </summary>
+        internal static string emoji_cucumber {
+            get {
+                return ResourceManager.GetString("emoji_cucumber", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F964.
+        /// </summary>
+        internal static string emoji_cup_straw {
+            get {
+                return ResourceManager.GetString("emoji_cup_straw", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9C1.
+        /// </summary>
+        internal static string emoji_cupcake {
+            get {
+                return ResourceManager.GetString("emoji_cupcake", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F35B.
+        /// </summary>
+        internal static string emoji_curry_rice {
+            get {
+                return ResourceManager.GetString("emoji_curry_rice", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F36E.
+        /// </summary>
+        internal static string emoji_custard {
+            get {
+                return ResourceManager.GetString("emoji_custard", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F969.
+        /// </summary>
+        internal static string emoji_cut_of_meat {
+            get {
+                return ResourceManager.GetString("emoji_cut_of_meat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F300.
+        /// </summary>
+        internal static string emoji_cyclone {
+            get {
+                return ResourceManager.GetString("emoji_cyclone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F361.
+        /// </summary>
+        internal static string emoji_dango {
+            get {
+                return ResourceManager.GetString("emoji_dango", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F4A8.
+        /// </summary>
+        internal static string emoji_dashing_away {
+            get {
+                return ResourceManager.GetString("emoji_dashing_away", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F333.
+        /// </summary>
+        internal static string emoji_deciduous_tree {
+            get {
+                return ResourceManager.GetString("emoji_deciduous_tree", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F98C.
+        /// </summary>
+        internal static string emoji_deer {
+            get {
+                return ResourceManager.GetString("emoji_deer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F69A.
+        /// </summary>
+        internal static string emoji_delivery_truck {
+            get {
+                return ResourceManager.GetString("emoji_delivery_truck", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3EC.
+        /// </summary>
+        internal static string emoji_department_store {
+            get {
+                return ResourceManager.GetString("emoji_department_store", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3DA.
+        /// </summary>
+        internal static string emoji_derelict_house {
+            get {
+                return ResourceManager.GetString("emoji_derelict_house", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3DC.
+        /// </summary>
+        internal static string emoji_desert {
+            get {
+                return ResourceManager.GetString("emoji_desert", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3DD.
+        /// </summary>
+        internal static string emoji_desert_island {
+            get {
+                return ResourceManager.GetString("emoji_desert_island", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F61E.
         /// </summary>
         internal static string emoji_disappointed_face {
@@ -286,20 +1438,83 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0001F978.
+        ///   Looks up a localized string similar to 0001F4AB.
         /// </summary>
-        internal static string emoji_disguised_face {
+        internal static string emoji_dizzy {
             get {
-                return ResourceManager.GetString("emoji_disguised_face", resourceCulture);
+                return ResourceManager.GetString("emoji_dizzy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F415.
+        /// </summary>
+        internal static string emoji_dog {
+            get {
+                return ResourceManager.GetString("emoji_dog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F436.
+        /// </summary>
+        internal static string emoji_dog_face {
+            get {
+                return ResourceManager.GetString("emoji_dog_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F42C.
+        /// </summary>
+        internal static string emoji_dolphin {
+            get {
+                return ResourceManager.GetString("emoji_dolphin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F369.
+        /// </summary>
+        internal static string emoji_doughnut {
+            get {
+                return ResourceManager.GetString("emoji_doughnut", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F54A.
+        /// </summary>
+        internal static string emoji_dove {
+            get {
+                return ResourceManager.GetString("emoji_dove", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to 0001F613.
         /// </summary>
-        internal static string emoji_downcast_face_with_sweat {
+        internal static string emoji_downcast_face_sweat {
             get {
-                return ResourceManager.GetString("emoji_downcast_face_with_sweat", resourceCulture);
+                return ResourceManager.GetString("emoji_downcast_face_sweat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F409.
+        /// </summary>
+        internal static string emoji_dragon {
+            get {
+                return ResourceManager.GetString("emoji_dragon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F432.
+        /// </summary>
+        internal static string emoji_dragon_face {
+            get {
+                return ResourceManager.GetString("emoji_dragon_face", resourceCulture);
             }
         }
         
@@ -309,6 +1524,132 @@ namespace Codemoji.Properties {
         internal static string emoji_drooling_face {
             get {
                 return ResourceManager.GetString("emoji_drooling_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F4A7.
+        /// </summary>
+        internal static string emoji_droplet {
+            get {
+                return ResourceManager.GetString("emoji_droplet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F986.
+        /// </summary>
+        internal static string emoji_duck {
+            get {
+                return ResourceManager.GetString("emoji_duck", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F95F.
+        /// </summary>
+        internal static string emoji_dumpling {
+            get {
+                return ResourceManager.GetString("emoji_dumpling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F985.
+        /// </summary>
+        internal static string emoji_eagle {
+            get {
+                return ResourceManager.GetString("emoji_eagle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F33D.
+        /// </summary>
+        internal static string emoji_ear_of_corn {
+            get {
+                return ResourceManager.GetString("emoji_ear_of_corn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F95A.
+        /// </summary>
+        internal static string emoji_egg {
+            get {
+                return ResourceManager.GetString("emoji_egg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F346.
+        /// </summary>
+        internal static string emoji_eggplant {
+            get {
+                return ResourceManager.GetString("emoji_eggplant", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F557.
+        /// </summary>
+        internal static string emoji_eight_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_eight_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F563.
+        /// </summary>
+        internal static string emoji_eight_thirty {
+            get {
+                return ResourceManager.GetString("emoji_eight_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F418.
+        /// </summary>
+        internal static string emoji_elephant {
+            get {
+                return ResourceManager.GetString("emoji_elephant", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F55A.
+        /// </summary>
+        internal static string emoji_eleven_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_eleven_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F566.
+        /// </summary>
+        internal static string emoji_eleven_thirty {
+            get {
+                return ResourceManager.GetString("emoji_eleven_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F332.
+        /// </summary>
+        internal static string emoji_evergreen_tree {
+            get {
+                return ResourceManager.GetString("emoji_evergreen_tree", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F411.
+        /// </summary>
+        internal static string emoji_ewe {
+            get {
+                return ResourceManager.GetString("emoji_ewe", resourceCulture);
             }
         }
         
@@ -331,11 +1672,92 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F441.
+        /// </summary>
+        internal static string emoji_eye {
+            get {
+                return ResourceManager.GetString("emoji_eye", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F440.
+        /// </summary>
+        internal static string emoji_eyes {
+            get {
+                return ResourceManager.GetString("emoji_eyes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F618.
         /// </summary>
         internal static string emoji_face_blowing_a_kiss {
             get {
                 return ResourceManager.GetString("emoji_face_blowing_a_kiss", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F92D.
+        /// </summary>
+        internal static string emoji_face_hand_over_mouth {
+            get {
+                return ResourceManager.GetString("emoji_face_hand_over_mouth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F915.
+        /// </summary>
+        internal static string emoji_face_head_bandage {
+            get {
+                return ResourceManager.GetString("emoji_face_head_bandage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F637.
+        /// </summary>
+        internal static string emoji_face_medical_mask {
+            get {
+                return ResourceManager.GetString("emoji_face_medical_mask", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9D0.
+        /// </summary>
+        internal static string emoji_face_monocle {
+            get {
+                return ResourceManager.GetString("emoji_face_monocle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F62E.
+        /// </summary>
+        internal static string emoji_face_open_mouth {
+            get {
+                return ResourceManager.GetString("emoji_face_open_mouth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F928.
+        /// </summary>
+        internal static string emoji_face_raised_eyebrow {
+            get {
+                return ResourceManager.GetString("emoji_face_raised_eyebrow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F644.
+        /// </summary>
+        internal static string emoji_face_rolling_eyes {
+            get {
+                return ResourceManager.GetString("emoji_face_rolling_eyes", resourceCulture);
             }
         }
         
@@ -358,11 +1780,47 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0001f602.
+        ///   Looks up a localized string similar to 0001F624.
+        /// </summary>
+        internal static string emoji_face_steam_from_nose {
+            get {
+                return ResourceManager.GetString("emoji_face_steam_from_nose", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F92C.
+        /// </summary>
+        internal static string emoji_face_symbols_on_mouth {
+            get {
+                return ResourceManager.GetString("emoji_face_symbols_on_mouth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F602.
         /// </summary>
         internal static string emoji_face_tears_of_joy {
             get {
                 return ResourceManager.GetString("emoji_face_tears_of_joy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F912.
+        /// </summary>
+        internal static string emoji_face_thermometer {
+            get {
+                return ResourceManager.GetString("emoji_face_thermometer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F61B.
+        /// </summary>
+        internal static string emoji_face_tongue {
+            get {
+                return ResourceManager.GetString("emoji_face_tongue", resourceCulture);
             }
         }
         
@@ -376,119 +1834,38 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0001F92D.
-        /// </summary>
-        internal static string emoji_face_with_hand_over_mouth {
-            get {
-                return ResourceManager.GetString("emoji_face_with_hand_over_mouth", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F915.
-        /// </summary>
-        internal static string emoji_face_with_head_bandage {
-            get {
-                return ResourceManager.GetString("emoji_face_with_head_bandage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F637.
-        /// </summary>
-        internal static string emoji_face_with_medical_mask {
-            get {
-                return ResourceManager.GetString("emoji_face_with_medical_mask", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F9D0.
-        /// </summary>
-        internal static string emoji_face_with_monocle {
-            get {
-                return ResourceManager.GetString("emoji_face_with_monocle", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F62E.
-        /// </summary>
-        internal static string emoji_face_with_open_mouth {
-            get {
-                return ResourceManager.GetString("emoji_face_with_open_mouth", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F928.
-        /// </summary>
-        internal static string emoji_face_with_raised_eyebrow {
-            get {
-                return ResourceManager.GetString("emoji_face_with_raised_eyebrow", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F644.
-        /// </summary>
-        internal static string emoji_face_with_rolling_eyes {
-            get {
-                return ResourceManager.GetString("emoji_face_with_rolling_eyes", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F624.
-        /// </summary>
-        internal static string emoji_face_with_steam_from_nose {
-            get {
-                return ResourceManager.GetString("emoji_face_with_steam_from_nose", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F92C.
-        /// </summary>
-        internal static string emoji_face_with_symbols_on_mouth {
-            get {
-                return ResourceManager.GetString("emoji_face_with_symbols_on_mouth", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F602.
-        /// </summary>
-        internal static string emoji_face_with_tears_of_joy {
-            get {
-                return ResourceManager.GetString("emoji_face_with_tears_of_joy", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F912.
-        /// </summary>
-        internal static string emoji_face_with_thermometer {
-            get {
-                return ResourceManager.GetString("emoji_face_with_thermometer", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F61B.
-        /// </summary>
-        internal static string emoji_face_with_tongue {
-            get {
-                return ResourceManager.GetString("emoji_face_with_tongue", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to 0001F636.
         /// </summary>
         internal static string emoji_face_without_mouth {
             get {
                 return ResourceManager.GetString("emoji_face_without_mouth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3ED.
+        /// </summary>
+        internal static string emoji_factory {
+            get {
+                return ResourceManager.GetString("emoji_factory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9C6.
+        /// </summary>
+        internal static string emoji_falafel {
+            get {
+                return ResourceManager.GetString("emoji_falafel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F342.
+        /// </summary>
+        internal static string emoji_fallen_leaf {
+            get {
+                return ResourceManager.GetString("emoji_fallen_leaf", resourceCulture);
             }
         }
         
@@ -502,11 +1879,272 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F3A1.
+        /// </summary>
+        internal static string emoji_ferris_wheel {
+            get {
+                return ResourceManager.GetString("emoji_ferris_wheel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026F4.
+        /// </summary>
+        internal static string emoji_ferry {
+            get {
+                return ResourceManager.GetString("emoji_ferry", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F525.
+        /// </summary>
+        internal static string emoji_fire {
+            get {
+                return ResourceManager.GetString("emoji_fire", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F692.
+        /// </summary>
+        internal static string emoji_fire_engine {
+            get {
+                return ResourceManager.GetString("emoji_fire_engine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9E8.
+        /// </summary>
+        internal static string emoji_firecracker {
+            get {
+                return ResourceManager.GetString("emoji_firecracker", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F386.
+        /// </summary>
+        internal static string emoji_fireworks {
+            get {
+                return ResourceManager.GetString("emoji_fireworks", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F313.
+        /// </summary>
+        internal static string emoji_first_quarter_moon {
+            get {
+                return ResourceManager.GetString("emoji_first_quarter_moon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F31B.
+        /// </summary>
+        internal static string emoji_first_quarter_moon_face {
+            get {
+                return ResourceManager.GetString("emoji_first_quarter_moon_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F41F.
+        /// </summary>
+        internal static string emoji_fish {
+            get {
+                return ResourceManager.GetString("emoji_fish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F365.
+        /// </summary>
+        internal static string emoji_fish_cake_swirl {
+            get {
+                return ResourceManager.GetString("emoji_fish_cake_swirl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F554.
+        /// </summary>
+        internal static string emoji_five_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_five_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F560.
+        /// </summary>
+        internal static string emoji_five_thirty {
+            get {
+                return ResourceManager.GetString("emoji_five_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9A9.
+        /// </summary>
+        internal static string emoji_flamingo {
+            get {
+                return ResourceManager.GetString("emoji_flamingo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F633.
         /// </summary>
         internal static string emoji_flushed_face {
             get {
                 return ResourceManager.GetString("emoji_flushed_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6F8.
+        /// </summary>
+        internal static string emoji_flying_saucer {
+            get {
+                return ResourceManager.GetString("emoji_flying_saucer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F32B.
+        /// </summary>
+        internal static string emoji_fog {
+            get {
+                return ResourceManager.GetString("emoji_fog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F301.
+        /// </summary>
+        internal static string emoji_foggy {
+            get {
+                return ResourceManager.GetString("emoji_foggy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F463.
+        /// </summary>
+        internal static string emoji_footprints {
+            get {
+                return ResourceManager.GetString("emoji_footprints", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F374.
+        /// </summary>
+        internal static string emoji_fork_and_knife {
+            get {
+                return ResourceManager.GetString("emoji_fork_and_knife", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F37D.
+        /// </summary>
+        internal static string emoji_fork_and_knife_plate {
+            get {
+                return ResourceManager.GetString("emoji_fork_and_knife_plate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F960.
+        /// </summary>
+        internal static string emoji_fortune_cookie {
+            get {
+                return ResourceManager.GetString("emoji_fortune_cookie", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026F2.
+        /// </summary>
+        internal static string emoji_fountain {
+            get {
+                return ResourceManager.GetString("emoji_fountain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F340.
+        /// </summary>
+        internal static string emoji_four_leaf_clover {
+            get {
+                return ResourceManager.GetString("emoji_four_leaf_clover", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F553.
+        /// </summary>
+        internal static string emoji_four_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_four_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F55F.
+        /// </summary>
+        internal static string emoji_four_thirty {
+            get {
+                return ResourceManager.GetString("emoji_four_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F98A.
+        /// </summary>
+        internal static string emoji_fox {
+            get {
+                return ResourceManager.GetString("emoji_fox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F35F.
+        /// </summary>
+        internal static string emoji_french_fries {
+            get {
+                return ResourceManager.GetString("emoji_french_fries", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F364.
+        /// </summary>
+        internal static string emoji_fried_shrimp {
+            get {
+                return ResourceManager.GetString("emoji_fried_shrimp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F438.
+        /// </summary>
+        internal static string emoji_frog {
+            get {
+                return ResourceManager.GetString("emoji_frog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F425.
+        /// </summary>
+        internal static string emoji_front_facing_baby_chick {
+            get {
+                return ResourceManager.GetString("emoji_front_facing_baby_chick", resourceCulture);
             }
         }
         
@@ -522,9 +2160,54 @@ namespace Codemoji.Properties {
         /// <summary>
         ///   Looks up a localized string similar to 0001F626.
         /// </summary>
-        internal static string emoji_frowning_face_with_open_mouth {
+        internal static string emoji_frowning_face_open_mouth {
             get {
-                return ResourceManager.GetString("emoji_frowning_face_with_open_mouth", resourceCulture);
+                return ResourceManager.GetString("emoji_frowning_face_open_mouth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026FD.
+        /// </summary>
+        internal static string emoji_fuel_pump {
+            get {
+                return ResourceManager.GetString("emoji_fuel_pump", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F315.
+        /// </summary>
+        internal static string emoji_full_moon {
+            get {
+                return ResourceManager.GetString("emoji_full_moon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F31D.
+        /// </summary>
+        internal static string emoji_full_moon_face {
+            get {
+                return ResourceManager.GetString("emoji_full_moon_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9C4.
+        /// </summary>
+        internal static string emoji_garlic {
+            get {
+                return ResourceManager.GetString("emoji_garlic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9DE.
+        /// </summary>
+        internal static string emoji_genie {
+            get {
+                return ResourceManager.GetString("emoji_genie", resourceCulture);
             }
         }
         
@@ -538,6 +2221,78 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F992.
+        /// </summary>
+        internal static string emoji_giraffe {
+            get {
+                return ResourceManager.GetString("emoji_giraffe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F95B.
+        /// </summary>
+        internal static string emoji_glass_of_milk {
+            get {
+                return ResourceManager.GetString("emoji_glass_of_milk", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F310.
+        /// </summary>
+        internal static string emoji_globe_meridians {
+            get {
+                return ResourceManager.GetString("emoji_globe_meridians", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F30E.
+        /// </summary>
+        internal static string emoji_globe_showing_Americas {
+            get {
+                return ResourceManager.GetString("emoji_globe_showing_Americas", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F30F.
+        /// </summary>
+        internal static string emoji_globe_showing_Asia_Australia {
+            get {
+                return ResourceManager.GetString("emoji_globe_showing_Asia_Australia", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F30D.
+        /// </summary>
+        internal static string emoji_globe_showing_Europe_Africa {
+            get {
+                return ResourceManager.GetString("emoji_globe_showing_Europe_Africa", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F31F.
+        /// </summary>
+        internal static string emoji_glowing_star {
+            get {
+                return ResourceManager.GetString("emoji_glowing_star", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F410.
+        /// </summary>
+        internal static string emoji_goat {
+            get {
+                return ResourceManager.GetString("emoji_goat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F47A.
         /// </summary>
         internal static string emoji_goblin {
@@ -547,11 +2302,47 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F98D.
+        /// </summary>
+        internal static string emoji_gorilla {
+            get {
+                return ResourceManager.GetString("emoji_gorilla", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F347.
+        /// </summary>
+        internal static string emoji_grapes {
+            get {
+                return ResourceManager.GetString("emoji_grapes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F34F.
+        /// </summary>
+        internal static string emoji_green_apple {
+            get {
+                return ResourceManager.GetString("emoji_green_apple", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F49A.
         /// </summary>
         internal static string emoji_green_heart {
             get {
                 return ResourceManager.GetString("emoji_green_heart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F957.
+        /// </summary>
+        internal static string emoji_green_salad {
+            get {
+                return ResourceManager.GetString("emoji_green_salad", resourceCulture);
             }
         }
         
@@ -576,9 +2367,9 @@ namespace Codemoji.Properties {
         /// <summary>
         ///   Looks up a localized string similar to 0001F638.
         /// </summary>
-        internal static string emoji_grinning_cat_with_smiling_eyes {
+        internal static string emoji_grinning_cat_smiling_eyes {
             get {
-                return ResourceManager.GetString("emoji_grinning_cat_with_smiling_eyes", resourceCulture);
+                return ResourceManager.GetString("emoji_grinning_cat_smiling_eyes", resourceCulture);
             }
         }
         
@@ -592,7 +2383,7 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0001f603.
+        ///   Looks up a localized string similar to 0001F603.
         /// </summary>
         internal static string emoji_grinning_face_big_eyes {
             get {
@@ -601,7 +2392,7 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0001f604.
+        ///   Looks up a localized string similar to 0001F604.
         /// </summary>
         internal static string emoji_grinning_face_smiling_eyes {
             get {
@@ -610,38 +2401,11 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0001f605.
+        ///   Looks up a localized string similar to 0001F605.
         /// </summary>
         internal static string emoji_grinning_face_sweat {
             get {
                 return ResourceManager.GetString("emoji_grinning_face_sweat", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F603.
-        /// </summary>
-        internal static string emoji_grinning_face_with_big_eyes {
-            get {
-                return ResourceManager.GetString("emoji_grinning_face_with_big_eyes", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F604.
-        /// </summary>
-        internal static string emoji_grinning_face_with_smiling_eyes {
-            get {
-                return ResourceManager.GetString("emoji_grinning_face_with_smiling_eyes", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F605.
-        /// </summary>
-        internal static string emoji_grinning_face_with_sweat {
-            get {
-                return ResourceManager.GetString("emoji_grinning_face_with_sweat", resourceCulture);
             }
         }
         
@@ -664,11 +2428,56 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F9AE.
+        /// </summary>
+        internal static string emoji_guide_dog {
+            get {
+                return ResourceManager.GetString("emoji_guide_dog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F354.
+        /// </summary>
+        internal static string emoji_hamburger {
+            get {
+                return ResourceManager.GetString("emoji_hamburger", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F439.
+        /// </summary>
+        internal static string emoji_hamster {
+            get {
+                return ResourceManager.GetString("emoji_hamster", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F423.
+        /// </summary>
+        internal static string emoji_hatching_chick {
+            get {
+                return ResourceManager.GetString("emoji_hatching_chick", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F649.
         /// </summary>
         internal static string emoji_hear_no_evil_monkey {
             get {
                 return ResourceManager.GetString("emoji_hear_no_evil_monkey", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F498.
+        /// </summary>
+        internal static string emoji_heart_arrow {
+            get {
+                return ResourceManager.GetString("emoji_heart_arrow", resourceCulture);
             }
         }
         
@@ -691,20 +2500,164 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0001F498.
+        ///   Looks up a localized string similar to 0001F49D.
         /// </summary>
-        internal static string emoji_heart_with_arrow {
+        internal static string emoji_heart_ribbon {
             get {
-                return ResourceManager.GetString("emoji_heart_with_arrow", resourceCulture);
+                return ResourceManager.GetString("emoji_heart_ribbon", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to 0001F49D.
+        ///   Looks up a localized string similar to 0001F994.
         /// </summary>
-        internal static string emoji_heart_with_ribbon {
+        internal static string emoji_hedgehog {
             get {
-                return ResourceManager.GetString("emoji_heart_with_ribbon", resourceCulture);
+                return ResourceManager.GetString("emoji_hedgehog", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F681.
+        /// </summary>
+        internal static string emoji_helicopter {
+            get {
+                return ResourceManager.GetString("emoji_helicopter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F33F.
+        /// </summary>
+        internal static string emoji_herb {
+            get {
+                return ResourceManager.GetString("emoji_herb", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F33A.
+        /// </summary>
+        internal static string emoji_hibiscus {
+            get {
+                return ResourceManager.GetString("emoji_hibiscus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F684.
+        /// </summary>
+        internal static string emoji_high_speed_train {
+            get {
+                return ResourceManager.GetString("emoji_high_speed_train", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026A1.
+        /// </summary>
+        internal static string emoji_high_voltage {
+            get {
+                return ResourceManager.GetString("emoji_high_voltage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6D5.
+        /// </summary>
+        internal static string emoji_hindu_temple {
+            get {
+                return ResourceManager.GetString("emoji_hindu_temple", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F99B.
+        /// </summary>
+        internal static string emoji_hippopotamus {
+            get {
+                return ResourceManager.GetString("emoji_hippopotamus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F573.
+        /// </summary>
+        internal static string emoji_hole {
+            get {
+                return ResourceManager.GetString("emoji_hole", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F36F.
+        /// </summary>
+        internal static string emoji_honey_pot {
+            get {
+                return ResourceManager.GetString("emoji_honey_pot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F41D.
+        /// </summary>
+        internal static string emoji_honeybee {
+            get {
+                return ResourceManager.GetString("emoji_honeybee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6A5.
+        /// </summary>
+        internal static string emoji_horizontal_traffic_light {
+            get {
+                return ResourceManager.GetString("emoji_horizontal_traffic_light", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F40E.
+        /// </summary>
+        internal static string emoji_horse {
+            get {
+                return ResourceManager.GetString("emoji_horse", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F434.
+        /// </summary>
+        internal static string emoji_horse_face {
+            get {
+                return ResourceManager.GetString("emoji_horse_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3E5.
+        /// </summary>
+        internal static string emoji_hospital {
+            get {
+                return ResourceManager.GetString("emoji_hospital", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 2615.
+        /// </summary>
+        internal static string emoji_hot_beverage {
+            get {
+                return ResourceManager.GetString("emoji_hot_beverage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F32D.
+        /// </summary>
+        internal static string emoji_hot_dog {
+            get {
+                return ResourceManager.GetString("emoji_hot_dog", resourceCulture);
             }
         }
         
@@ -714,6 +2667,78 @@ namespace Codemoji.Properties {
         internal static string emoji_hot_face {
             get {
                 return ResourceManager.GetString("emoji_hot_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F336.
+        /// </summary>
+        internal static string emoji_hot_pepper {
+            get {
+                return ResourceManager.GetString("emoji_hot_pepper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002668.
+        /// </summary>
+        internal static string emoji_hot_springs {
+            get {
+                return ResourceManager.GetString("emoji_hot_springs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3E8.
+        /// </summary>
+        internal static string emoji_hotel {
+            get {
+                return ResourceManager.GetString("emoji_hotel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0000231B.
+        /// </summary>
+        internal static string emoji_hourglass_done {
+            get {
+                return ResourceManager.GetString("emoji_hourglass_done", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000023F3.
+        /// </summary>
+        internal static string emoji_hourglass_not_done {
+            get {
+                return ResourceManager.GetString("emoji_hourglass_not_done", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3E0.
+        /// </summary>
+        internal static string emoji_house {
+            get {
+                return ResourceManager.GetString("emoji_house", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3E1.
+        /// </summary>
+        internal static string emoji_house_garden {
+            get {
+                return ResourceManager.GetString("emoji_house_garden", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3D8.
+        /// </summary>
+        internal static string emoji_houses {
+            get {
+                return ResourceManager.GetString("emoji_houses", resourceCulture);
             }
         }
         
@@ -741,6 +2766,87 @@ namespace Codemoji.Properties {
         internal static string emoji_hushed_face {
             get {
                 return ResourceManager.GetString("emoji_hushed_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9CA.
+        /// </summary>
+        internal static string emoji_ice {
+            get {
+                return ResourceManager.GetString("emoji_ice", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F368.
+        /// </summary>
+        internal static string emoji_ice_cream {
+            get {
+                return ResourceManager.GetString("emoji_ice_cream", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F383.
+        /// </summary>
+        internal static string emoji_jack_o_lantern {
+            get {
+                return ResourceManager.GetString("emoji_jack_o_lantern", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3EF.
+        /// </summary>
+        internal static string emoji_Japanese_castle {
+            get {
+                return ResourceManager.GetString("emoji_Japanese_castle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F38E.
+        /// </summary>
+        internal static string emoji_Japanese_dolls {
+            get {
+                return ResourceManager.GetString("emoji_Japanese_dolls", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3E3.
+        /// </summary>
+        internal static string emoji_Japanese_post_office {
+            get {
+                return ResourceManager.GetString("emoji_Japanese_post_office", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F54B.
+        /// </summary>
+        internal static string emoji_kaaba {
+            get {
+                return ResourceManager.GetString("emoji_kaaba", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F998.
+        /// </summary>
+        internal static string emoji_kangaroo {
+            get {
+                return ResourceManager.GetString("emoji_kangaroo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6F4.
+        /// </summary>
+        internal static string emoji_kick_scooter {
+            get {
+                return ResourceManager.GetString("emoji_kick_scooter", resourceCulture);
             }
         }
         
@@ -774,18 +2880,36 @@ namespace Codemoji.Properties {
         /// <summary>
         ///   Looks up a localized string similar to 0001F61A.
         /// </summary>
-        internal static string emoji_kissing_face_with_closed_eyes {
+        internal static string emoji_kissing_face_closed_eyes {
             get {
-                return ResourceManager.GetString("emoji_kissing_face_with_closed_eyes", resourceCulture);
+                return ResourceManager.GetString("emoji_kissing_face_closed_eyes", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to 0001F619.
         /// </summary>
-        internal static string emoji_kissing_face_with_smiling_eyes {
+        internal static string emoji_kissing_face_smiling_eyes {
             get {
-                return ResourceManager.GetString("emoji_kissing_face_with_smiling_eyes", resourceCulture);
+                return ResourceManager.GetString("emoji_kissing_face_smiling_eyes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F52A.
+        /// </summary>
+        internal static string emoji_kitchen_knife {
+            get {
+                return ResourceManager.GetString("emoji_kitchen_knife", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F95D.
+        /// </summary>
+        internal static string emoji_kiwi_fruit {
+            get {
+                return ResourceManager.GetString("emoji_kiwi_fruit", resourceCulture);
             }
         }
         
@@ -799,11 +2923,164 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F428.
+        /// </summary>
+        internal static string emoji_koala {
+            get {
+                return ResourceManager.GetString("emoji_koala", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F41E.
+        /// </summary>
+        internal static string emoji_lady_beetle {
+            get {
+                return ResourceManager.GetString("emoji_lady_beetle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F317.
+        /// </summary>
+        internal static string emoji_last_quarter_moon {
+            get {
+                return ResourceManager.GetString("emoji_last_quarter_moon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F31C.
+        /// </summary>
+        internal static string emoji_last_quarter_moon_face {
+            get {
+                return ResourceManager.GetString("emoji_last_quarter_moon_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F343.
+        /// </summary>
+        internal static string emoji_leaf_fluttering_in_wind {
+            get {
+                return ResourceManager.GetString("emoji_leaf_fluttering_in_wind", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F96C.
+        /// </summary>
+        internal static string emoji_leafy_green {
+            get {
+                return ResourceManager.GetString("emoji_leafy_green", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F5E8.
+        /// </summary>
+        internal static string emoji_left_speech_bubble {
+            get {
+                return ResourceManager.GetString("emoji_left_speech_bubble", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F34B.
+        /// </summary>
+        internal static string emoji_lemon {
+            get {
+                return ResourceManager.GetString("emoji_lemon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F406.
+        /// </summary>
+        internal static string emoji_leopard {
+            get {
+                return ResourceManager.GetString("emoji_leopard", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F688.
+        /// </summary>
+        internal static string emoji_light_rail {
+            get {
+                return ResourceManager.GetString("emoji_light_rail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F981.
+        /// </summary>
+        internal static string emoji_lion {
+            get {
+                return ResourceManager.GetString("emoji_lion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F98E.
+        /// </summary>
+        internal static string emoji_lizard {
+            get {
+                return ResourceManager.GetString("emoji_lizard", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F999.
+        /// </summary>
+        internal static string emoji_llama {
+            get {
+                return ResourceManager.GetString("emoji_llama", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F99E.
+        /// </summary>
+        internal static string emoji_lobster {
+            get {
+                return ResourceManager.GetString("emoji_lobster", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F682.
+        /// </summary>
+        internal static string emoji_locomotive {
+            get {
+                return ResourceManager.GetString("emoji_locomotive", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F36D.
+        /// </summary>
+        internal static string emoji_lollipop {
+            get {
+                return ResourceManager.GetString("emoji_lollipop", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F62D.
         /// </summary>
         internal static string emoji_loudly_crying_face {
             get {
                 return ResourceManager.GetString("emoji_loudly_crying_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3E9.
+        /// </summary>
+        internal static string emoji_love_hotel {
+            get {
+                return ResourceManager.GetString("emoji_love_hotel", resourceCulture);
             }
         }
         
@@ -817,6 +3094,15 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F9F3.
+        /// </summary>
+        internal static string emoji_luggage {
+            get {
+                return ResourceManager.GetString("emoji_luggage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F925.
         /// </summary>
         internal static string emoji_lying_face {
@@ -826,11 +3112,335 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F96D.
+        /// </summary>
+        internal static string emoji_mango {
+            get {
+                return ResourceManager.GetString("emoji_mango", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F570.
+        /// </summary>
+        internal static string emoji_mantelpiece_clock {
+            get {
+                return ResourceManager.GetString("emoji_mantelpiece_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9BD.
+        /// </summary>
+        internal static string emoji_manual_wheelchair {
+            get {
+                return ResourceManager.GetString("emoji_manual_wheelchair", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F5FE.
+        /// </summary>
+        internal static string emoji_map_of_Japan {
+            get {
+                return ResourceManager.GetString("emoji_map_of_Japan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F341.
+        /// </summary>
+        internal static string emoji_maple_leaf {
+            get {
+                return ResourceManager.GetString("emoji_maple_leaf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9C9.
+        /// </summary>
+        internal static string emoji_mate {
+            get {
+                return ResourceManager.GetString("emoji_mate", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F356.
+        /// </summary>
+        internal static string emoji_meat_on_bone {
+            get {
+                return ResourceManager.GetString("emoji_meat_on_bone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9BE.
+        /// </summary>
+        internal static string emoji_mechanical_arm {
+            get {
+                return ResourceManager.GetString("emoji_mechanical_arm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9BF.
+        /// </summary>
+        internal static string emoji_mechanical_leg {
+            get {
+                return ResourceManager.GetString("emoji_mechanical_leg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F348.
+        /// </summary>
+        internal static string emoji_melon {
+            get {
+                return ResourceManager.GetString("emoji_melon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F687.
+        /// </summary>
+        internal static string emoji_metro {
+            get {
+                return ResourceManager.GetString("emoji_metro", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9A0.
+        /// </summary>
+        internal static string emoji_microbe {
+            get {
+                return ResourceManager.GetString("emoji_microbe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F396.
+        /// </summary>
+        internal static string emoji_military_medal {
+            get {
+                return ResourceManager.GetString("emoji_military_medal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F30C.
+        /// </summary>
+        internal static string emoji_milky_way {
+            get {
+                return ResourceManager.GetString("emoji_milky_way", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F690.
+        /// </summary>
+        internal static string emoji_minibus {
+            get {
+                return ResourceManager.GetString("emoji_minibus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F911.
         /// </summary>
         internal static string emoji_money_mouth_face {
             get {
                 return ResourceManager.GetString("emoji_money_mouth_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F412.
+        /// </summary>
+        internal static string emoji_monkey {
+            get {
+                return ResourceManager.GetString("emoji_monkey", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F435.
+        /// </summary>
+        internal static string emoji_monkey_face {
+            get {
+                return ResourceManager.GetString("emoji_monkey_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F69D.
+        /// </summary>
+        internal static string emoji_monorail {
+            get {
+                return ResourceManager.GetString("emoji_monorail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F96E.
+        /// </summary>
+        internal static string emoji_moon_cake {
+            get {
+                return ResourceManager.GetString("emoji_moon_cake", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F391.
+        /// </summary>
+        internal static string emoji_moon_viewing_ceremony {
+            get {
+                return ResourceManager.GetString("emoji_moon_viewing_ceremony", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F54C.
+        /// </summary>
+        internal static string emoji_mosque {
+            get {
+                return ResourceManager.GetString("emoji_mosque", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F99F.
+        /// </summary>
+        internal static string emoji_mosquito {
+            get {
+                return ResourceManager.GetString("emoji_mosquito", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6E5.
+        /// </summary>
+        internal static string emoji_motor_boat {
+            get {
+                return ResourceManager.GetString("emoji_motor_boat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6F5.
+        /// </summary>
+        internal static string emoji_motor_scooter {
+            get {
+                return ResourceManager.GetString("emoji_motor_scooter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3CD.
+        /// </summary>
+        internal static string emoji_motorcycle {
+            get {
+                return ResourceManager.GetString("emoji_motorcycle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9BC.
+        /// </summary>
+        internal static string emoji_motorized_wheelchair {
+            get {
+                return ResourceManager.GetString("emoji_motorized_wheelchair", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6E3.
+        /// </summary>
+        internal static string emoji_motorway {
+            get {
+                return ResourceManager.GetString("emoji_motorway", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F5FB.
+        /// </summary>
+        internal static string emoji_mount_fuji {
+            get {
+                return ResourceManager.GetString("emoji_mount_fuji", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026F0.
+        /// </summary>
+        internal static string emoji_mountain {
+            get {
+                return ResourceManager.GetString("emoji_mountain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6A0.
+        /// </summary>
+        internal static string emoji_mountain_cableway {
+            get {
+                return ResourceManager.GetString("emoji_mountain_cableway", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F69E.
+        /// </summary>
+        internal static string emoji_mountain_railway {
+            get {
+                return ResourceManager.GetString("emoji_mountain_railway", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F401.
+        /// </summary>
+        internal static string emoji_mouse {
+            get {
+                return ResourceManager.GetString("emoji_mouse", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F42D.
+        /// </summary>
+        internal static string emoji_mouse_face {
+            get {
+                return ResourceManager.GetString("emoji_mouse_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F444.
+        /// </summary>
+        internal static string emoji_mouth {
+            get {
+                return ResourceManager.GetString("emoji_mouth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F344.
+        /// </summary>
+        internal static string emoji_mushroom {
+            get {
+                return ResourceManager.GetString("emoji_mushroom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3DE.
+        /// </summary>
+        internal static string emoji_national_park {
+            get {
+                return ResourceManager.GetString("emoji_national_park", resourceCulture);
             }
         }
         
@@ -862,11 +3472,155 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F311.
+        /// </summary>
+        internal static string emoji_new_moon {
+            get {
+                return ResourceManager.GetString("emoji_new_moon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F31A.
+        /// </summary>
+        internal static string emoji_new_moon_face {
+            get {
+                return ResourceManager.GetString("emoji_new_moon_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F303.
+        /// </summary>
+        internal static string emoji_night_stars {
+            get {
+                return ResourceManager.GetString("emoji_night_stars", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F558.
+        /// </summary>
+        internal static string emoji_nine_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_nine_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F564.
+        /// </summary>
+        internal static string emoji_nine_thirty {
+            get {
+                return ResourceManager.GetString("emoji_nine_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F419.
+        /// </summary>
+        internal static string emoji_octopus {
+            get {
+                return ResourceManager.GetString("emoji_octopus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F362.
+        /// </summary>
+        internal static string emoji_oden {
+            get {
+                return ResourceManager.GetString("emoji_oden", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3E2.
+        /// </summary>
+        internal static string emoji_office_building {
+            get {
+                return ResourceManager.GetString("emoji_office_building", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F479.
         /// </summary>
         internal static string emoji_ogre {
             get {
                 return ResourceManager.GetString("emoji_ogre", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6E2.
+        /// </summary>
+        internal static string emoji_oil_drum {
+            get {
+                return ResourceManager.GetString("emoji_oil_drum", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F698.
+        /// </summary>
+        internal static string emoji_oncoming_automobile {
+            get {
+                return ResourceManager.GetString("emoji_oncoming_automobile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F68D.
+        /// </summary>
+        internal static string emoji_oncoming_bus {
+            get {
+                return ResourceManager.GetString("emoji_oncoming_bus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F694.
+        /// </summary>
+        internal static string emoji_oncoming_police_car {
+            get {
+                return ResourceManager.GetString("emoji_oncoming_police_car", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F696.
+        /// </summary>
+        internal static string emoji_oncoming_taxi {
+            get {
+                return ResourceManager.GetString("emoji_oncoming_taxi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F550.
+        /// </summary>
+        internal static string emoji_one_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_one_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F55C.
+        /// </summary>
+        internal static string emoji_one_thirty {
+            get {
+                return ResourceManager.GetString("emoji_one_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9C5.
+        /// </summary>
+        internal static string emoji_onion {
+            get {
+                return ResourceManager.GetString("emoji_onion", resourceCulture);
             }
         }
         
@@ -880,11 +3634,173 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F9A7.
+        /// </summary>
+        internal static string emoji_orangutan {
+            get {
+                return ResourceManager.GetString("emoji_orangutan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9A6.
+        /// </summary>
+        internal static string emoji_otter {
+            get {
+                return ResourceManager.GetString("emoji_otter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F989.
+        /// </summary>
+        internal static string emoji_owl {
+            get {
+                return ResourceManager.GetString("emoji_owl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F402.
+        /// </summary>
+        internal static string emoji_ox {
+            get {
+                return ResourceManager.GetString("emoji_ox", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9AA.
+        /// </summary>
+        internal static string emoji_oyster {
+            get {
+                return ResourceManager.GetString("emoji_oyster", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F334.
+        /// </summary>
+        internal static string emoji_palm_tree {
+            get {
+                return ResourceManager.GetString("emoji_palm_tree", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F95E.
+        /// </summary>
+        internal static string emoji_pancakes {
+            get {
+                return ResourceManager.GetString("emoji_pancakes", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F43C.
+        /// </summary>
+        internal static string emoji_panda {
+            get {
+                return ResourceManager.GetString("emoji_panda", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001FA82.
+        /// </summary>
+        internal static string emoji_parachute {
+            get {
+                return ResourceManager.GetString("emoji_parachute", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F99C.
+        /// </summary>
+        internal static string emoji_parrot {
+            get {
+                return ResourceManager.GetString("emoji_parrot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F389.
+        /// </summary>
+        internal static string emoji_party_popper {
+            get {
+                return ResourceManager.GetString("emoji_party_popper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F973.
         /// </summary>
         internal static string emoji_partying_face {
             get {
                 return ResourceManager.GetString("emoji_partying_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6F3.
+        /// </summary>
+        internal static string emoji_passenger_ship {
+            get {
+                return ResourceManager.GetString("emoji_passenger_ship", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F43E.
+        /// </summary>
+        internal static string emoji_paw_prints {
+            get {
+                return ResourceManager.GetString("emoji_paw_prints", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F351.
+        /// </summary>
+        internal static string emoji_peach {
+            get {
+                return ResourceManager.GetString("emoji_peach", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F99A.
+        /// </summary>
+        internal static string emoji_peacock {
+            get {
+                return ResourceManager.GetString("emoji_peacock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F95C.
+        /// </summary>
+        internal static string emoji_peanuts {
+            get {
+                return ResourceManager.GetString("emoji_peanuts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F350.
+        /// </summary>
+        internal static string emoji_pear {
+            get {
+                return ResourceManager.GetString("emoji_pear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F427.
+        /// </summary>
+        internal static string emoji_penguin {
+            get {
+                return ResourceManager.GetString("emoji_penguin", resourceCulture);
             }
         }
         
@@ -907,6 +3823,51 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F93A.
+        /// </summary>
+        internal static string emoji_person_fencing {
+            get {
+                return ResourceManager.GetString("emoji_person_fencing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F967.
+        /// </summary>
+        internal static string emoji_pie {
+            get {
+                return ResourceManager.GetString("emoji_pie", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F416.
+        /// </summary>
+        internal static string emoji_pig {
+            get {
+                return ResourceManager.GetString("emoji_pig", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F437.
+        /// </summary>
+        internal static string emoji_pig_face {
+            get {
+                return ResourceManager.GetString("emoji_pig_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F43D.
+        /// </summary>
+        internal static string emoji_pig_nose {
+            get {
+                return ResourceManager.GetString("emoji_pig_nose", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F4A9.
         /// </summary>
         internal static string emoji_pile_of_poo {
@@ -916,11 +3877,110 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F38D.
+        /// </summary>
+        internal static string emoji_pine_decoration {
+            get {
+                return ResourceManager.GetString("emoji_pine_decoration", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F34D.
+        /// </summary>
+        internal static string emoji_pineapple {
+            get {
+                return ResourceManager.GetString("emoji_pineapple", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F355.
+        /// </summary>
+        internal static string emoji_pizza {
+            get {
+                return ResourceManager.GetString("emoji_pizza", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F97A.
         /// </summary>
         internal static string emoji_pleading_face {
             get {
                 return ResourceManager.GetString("emoji_pleading_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F693.
+        /// </summary>
+        internal static string emoji_police_car {
+            get {
+                return ResourceManager.GetString("emoji_police_car", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6A8.
+        /// </summary>
+        internal static string emoji_police_car_light {
+            get {
+                return ResourceManager.GetString("emoji_police_car_light", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F429.
+        /// </summary>
+        internal static string emoji_poodle {
+            get {
+                return ResourceManager.GetString("emoji_poodle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F37F.
+        /// </summary>
+        internal static string emoji_popcorn {
+            get {
+                return ResourceManager.GetString("emoji_popcorn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3E4.
+        /// </summary>
+        internal static string emoji_post_office {
+            get {
+                return ResourceManager.GetString("emoji_post_office", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F372.
+        /// </summary>
+        internal static string emoji_pot_of_food {
+            get {
+                return ResourceManager.GetString("emoji_pot_of_food", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F954.
+        /// </summary>
+        internal static string emoji_potato {
+            get {
+                return ResourceManager.GetString("emoji_potato", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F357.
+        /// </summary>
+        internal static string emoji_poultry_leg {
+            get {
+                return ResourceManager.GetString("emoji_poultry_leg", resourceCulture);
             }
         }
         
@@ -943,11 +4003,119 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F968.
+        /// </summary>
+        internal static string emoji_pretzel {
+            get {
+                return ResourceManager.GetString("emoji_pretzel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F49C.
         /// </summary>
         internal static string emoji_purple_heart {
             get {
                 return ResourceManager.GetString("emoji_purple_heart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F407.
+        /// </summary>
+        internal static string emoji_rabbit {
+            get {
+                return ResourceManager.GetString("emoji_rabbit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F430.
+        /// </summary>
+        internal static string emoji_rabbit_face {
+            get {
+                return ResourceManager.GetString("emoji_rabbit_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F99D.
+        /// </summary>
+        internal static string emoji_raccoon {
+            get {
+                return ResourceManager.GetString("emoji_raccoon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3CE.
+        /// </summary>
+        internal static string emoji_racing_car {
+            get {
+                return ResourceManager.GetString("emoji_racing_car", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F683.
+        /// </summary>
+        internal static string emoji_railway_car {
+            get {
+                return ResourceManager.GetString("emoji_railway_car", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6E4.
+        /// </summary>
+        internal static string emoji_railway_track {
+            get {
+                return ResourceManager.GetString("emoji_railway_track", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F308.
+        /// </summary>
+        internal static string emoji_rainbow {
+            get {
+                return ResourceManager.GetString("emoji_rainbow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F40F.
+        /// </summary>
+        internal static string emoji_ram {
+            get {
+                return ResourceManager.GetString("emoji_ram", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F400.
+        /// </summary>
+        internal static string emoji_rat {
+            get {
+                return ResourceManager.GetString("emoji_rat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F34E.
+        /// </summary>
+        internal static string emoji_red_apple {
+            get {
+                return ResourceManager.GetString("emoji_red_apple", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9E7.
+        /// </summary>
+        internal static string emoji_red_envelope {
+            get {
+                return ResourceManager.GetString("emoji_red_envelope", resourceCulture);
             }
         }
         
@@ -970,11 +4138,83 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F397.
+        /// </summary>
+        internal static string emoji_reminder_ribbon {
+            get {
+                return ResourceManager.GetString("emoji_reminder_ribbon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F49E.
         /// </summary>
         internal static string emoji_revolving_hearts {
             get {
                 return ResourceManager.GetString("emoji_revolving_hearts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F98F.
+        /// </summary>
+        internal static string emoji_rhinoceros {
+            get {
+                return ResourceManager.GetString("emoji_rhinoceros", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F380.
+        /// </summary>
+        internal static string emoji_ribbon {
+            get {
+                return ResourceManager.GetString("emoji_ribbon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F359.
+        /// </summary>
+        internal static string emoji_rice_ball {
+            get {
+                return ResourceManager.GetString("emoji_rice_ball", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F358.
+        /// </summary>
+        internal static string emoji_rice_cracker {
+            get {
+                return ResourceManager.GetString("emoji_rice_cracker", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F5EF.
+        /// </summary>
+        internal static string emoji_right_anger_bubble {
+            get {
+                return ResourceManager.GetString("emoji_right_anger_bubble", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001FA90.
+        /// </summary>
+        internal static string emoji_ringed_planet {
+            get {
+                return ResourceManager.GetString("emoji_ringed_planet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F360.
+        /// </summary>
+        internal static string emoji_roasted_sweet_potato {
+            get {
+                return ResourceManager.GetString("emoji_roasted_sweet_potato", resourceCulture);
             }
         }
         
@@ -988,11 +4228,65 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F680.
+        /// </summary>
+        internal static string emoji_rocket {
+            get {
+                return ResourceManager.GetString("emoji_rocket", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3A2.
+        /// </summary>
+        internal static string emoji_roller_coaster {
+            get {
+                return ResourceManager.GetString("emoji_roller_coaster", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F923.
         /// </summary>
         internal static string emoji_rolling_on_the_floor_laughing {
             get {
                 return ResourceManager.GetString("emoji_rolling_on_the_floor_laughing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F413.
+        /// </summary>
+        internal static string emoji_rooster {
+            get {
+                return ResourceManager.GetString("emoji_rooster", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F339.
+        /// </summary>
+        internal static string emoji_rose {
+            get {
+                return ResourceManager.GetString("emoji_rose", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3F5.
+        /// </summary>
+        internal static string emoji_rosette {
+            get {
+                return ResourceManager.GetString("emoji_rosette", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3C9.
+        /// </summary>
+        internal static string emoji_rugby_football {
+            get {
+                return ResourceManager.GetString("emoji_rugby_football", resourceCulture);
             }
         }
         
@@ -1006,6 +4300,87 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 000026F5.
+        /// </summary>
+        internal static string emoji_sailboat {
+            get {
+                return ResourceManager.GetString("emoji_sailboat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F376.
+        /// </summary>
+        internal static string emoji_sake {
+            get {
+                return ResourceManager.GetString("emoji_sake", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9C2.
+        /// </summary>
+        internal static string emoji_salt {
+            get {
+                return ResourceManager.GetString("emoji_salt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F96A.
+        /// </summary>
+        internal static string emoji_sandwich {
+            get {
+                return ResourceManager.GetString("emoji_sandwich", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6F0.
+        /// </summary>
+        internal static string emoji_satellite {
+            get {
+                return ResourceManager.GetString("emoji_satellite", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F995.
+        /// </summary>
+        internal static string emoji_sauropod {
+            get {
+                return ResourceManager.GetString("emoji_sauropod", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3EB.
+        /// </summary>
+        internal static string emoji_school {
+            get {
+                return ResourceManager.GetString("emoji_school", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F982.
+        /// </summary>
+        internal static string emoji_scorpion {
+            get {
+                return ResourceManager.GetString("emoji_scorpion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F4BA.
+        /// </summary>
+        internal static string emoji_seat {
+            get {
+                return ResourceManager.GetString("emoji_seat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F648.
         /// </summary>
         internal static string emoji_see_no_evil_monkey {
@@ -1015,11 +4390,146 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F331.
+        /// </summary>
+        internal static string emoji_seedling {
+            get {
+                return ResourceManager.GetString("emoji_seedling", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F556.
+        /// </summary>
+        internal static string emoji_seven_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_seven_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F562.
+        /// </summary>
+        internal static string emoji_seven_thirty {
+            get {
+                return ResourceManager.GetString("emoji_seven_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F958.
+        /// </summary>
+        internal static string emoji_shallow_pan_of_food {
+            get {
+                return ResourceManager.GetString("emoji_shallow_pan_of_food", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002618.
+        /// </summary>
+        internal static string emoji_shamrock {
+            get {
+                return ResourceManager.GetString("emoji_shamrock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F988.
+        /// </summary>
+        internal static string emoji_shark {
+            get {
+                return ResourceManager.GetString("emoji_shark", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F367.
+        /// </summary>
+        internal static string emoji_shaved_ice {
+            get {
+                return ResourceManager.GetString("emoji_shaved_ice", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F33E.
+        /// </summary>
+        internal static string emoji_sheaf_of_rice {
+            get {
+                return ResourceManager.GetString("emoji_sheaf_of_rice", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6A2.
+        /// </summary>
+        internal static string emoji_ship {
+            get {
+                return ResourceManager.GetString("emoji_ship", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F320.
+        /// </summary>
+        internal static string emoji_shooting_star {
+            get {
+                return ResourceManager.GetString("emoji_shooting_star", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F370.
+        /// </summary>
+        internal static string emoji_shortcake {
+            get {
+                return ResourceManager.GetString("emoji_shortcake", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F990.
+        /// </summary>
+        internal static string emoji_shrimp {
+            get {
+                return ResourceManager.GetString("emoji_shrimp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F92B.
         /// </summary>
         internal static string emoji_shushing_face {
             get {
                 return ResourceManager.GetString("emoji_shushing_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F555.
+        /// </summary>
+        internal static string emoji_six_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_six_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F561.
+        /// </summary>
+        internal static string emoji_six_thirty {
+            get {
+                return ResourceManager.GetString("emoji_six_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6F9.
+        /// </summary>
+        internal static string emoji_skateboard {
+            get {
+                return ResourceManager.GetString("emoji_skateboard", resourceCulture);
             }
         }
         
@@ -1038,6 +4548,15 @@ namespace Codemoji.Properties {
         internal static string emoji_skull_and_crossbones {
             get {
                 return ResourceManager.GetString("emoji_skull_and_crossbones", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9A8.
+        /// </summary>
+        internal static string emoji_skunk {
+            get {
+                return ResourceManager.GetString("emoji_skunk", resourceCulture);
             }
         }
         
@@ -1078,11 +4597,29 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F9A5.
+        /// </summary>
+        internal static string emoji_sloth {
+            get {
+                return ResourceManager.GetString("emoji_sloth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6E9.
+        /// </summary>
+        internal static string emoji_small_airplane {
+            get {
+                return ResourceManager.GetString("emoji_small_airplane", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F63B.
         /// </summary>
-        internal static string emoji_smiling_cat_with_heart_eyes {
+        internal static string emoji_smiling_cat_heart_eyes {
             get {
-                return ResourceManager.GetString("emoji_smiling_cat_with_heart_eyes", resourceCulture);
+                return ResourceManager.GetString("emoji_smiling_cat_heart_eyes", resourceCulture);
             }
         }
         
@@ -1098,63 +4635,54 @@ namespace Codemoji.Properties {
         /// <summary>
         ///   Looks up a localized string similar to 0001F607.
         /// </summary>
-        internal static string emoji_smiling_face_with_halo {
+        internal static string emoji_smiling_face_halo {
             get {
-                return ResourceManager.GetString("emoji_smiling_face_with_halo", resourceCulture);
+                return ResourceManager.GetString("emoji_smiling_face_halo", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to 0001F60D.
         /// </summary>
-        internal static string emoji_smiling_face_with_heart_eyes {
+        internal static string emoji_smiling_face_heart_eyes {
             get {
-                return ResourceManager.GetString("emoji_smiling_face_with_heart_eyes", resourceCulture);
+                return ResourceManager.GetString("emoji_smiling_face_heart_eyes", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to 0001F970.
         /// </summary>
-        internal static string emoji_smiling_face_with_hearts {
+        internal static string emoji_smiling_face_hearts {
             get {
-                return ResourceManager.GetString("emoji_smiling_face_with_hearts", resourceCulture);
+                return ResourceManager.GetString("emoji_smiling_face_hearts", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to 0001F608.
         /// </summary>
-        internal static string emoji_smiling_face_with_horns {
+        internal static string emoji_smiling_face_horns {
             get {
-                return ResourceManager.GetString("emoji_smiling_face_with_horns", resourceCulture);
+                return ResourceManager.GetString("emoji_smiling_face_horns", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to 0001F60A.
         /// </summary>
-        internal static string emoji_smiling_face_with_smiling_eyes {
+        internal static string emoji_smiling_face_smiling_eyes {
             get {
-                return ResourceManager.GetString("emoji_smiling_face_with_smiling_eyes", resourceCulture);
+                return ResourceManager.GetString("emoji_smiling_face_smiling_eyes", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to 0001F60E.
         /// </summary>
-        internal static string emoji_smiling_face_with_sunglasses {
+        internal static string emoji_smiling_face_sunglasses {
             get {
-                return ResourceManager.GetString("emoji_smiling_face_with_sunglasses", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to 0001F972.
-        /// </summary>
-        internal static string emoji_smiling_face_with_tear {
-            get {
-                return ResourceManager.GetString("emoji_smiling_face_with_tear", resourceCulture);
+                return ResourceManager.GetString("emoji_smiling_face_sunglasses", resourceCulture);
             }
         }
         
@@ -1168,11 +4696,119 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F40C.
+        /// </summary>
+        internal static string emoji_snail {
+            get {
+                return ResourceManager.GetString("emoji_snail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F40D.
+        /// </summary>
+        internal static string emoji_snake {
+            get {
+                return ResourceManager.GetString("emoji_snake", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F927.
         /// </summary>
         internal static string emoji_sneezing_face {
             get {
                 return ResourceManager.GetString("emoji_sneezing_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3D4.
+        /// </summary>
+        internal static string emoji_snow_capped_mountain {
+            get {
+                return ResourceManager.GetString("emoji_snow_capped_mountain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002744.
+        /// </summary>
+        internal static string emoji_snowflake {
+            get {
+                return ResourceManager.GetString("emoji_snowflake", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002603.
+        /// </summary>
+        internal static string emoji_snowman {
+            get {
+                return ResourceManager.GetString("emoji_snowman", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026C4.
+        /// </summary>
+        internal static string emoji_snowman_without_snow {
+            get {
+                return ResourceManager.GetString("emoji_snowman_without_snow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026BD.
+        /// </summary>
+        internal static string emoji_soccer_ball {
+            get {
+                return ResourceManager.GetString("emoji_soccer_ball", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F366.
+        /// </summary>
+        internal static string emoji_soft_ice_cream {
+            get {
+                return ResourceManager.GetString("emoji_soft_ice_cream", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F94E.
+        /// </summary>
+        internal static string emoji_softball {
+            get {
+                return ResourceManager.GetString("emoji_softball", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F35D.
+        /// </summary>
+        internal static string emoji_spaghetti {
+            get {
+                return ResourceManager.GetString("emoji_spaghetti", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F387.
+        /// </summary>
+        internal static string emoji_sparkler {
+            get {
+                return ResourceManager.GetString("emoji_sparkler", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002728.
+        /// </summary>
+        internal static string emoji_sparkles {
+            get {
+                return ResourceManager.GetString("emoji_sparkles", resourceCulture);
             }
         }
         
@@ -1195,11 +4831,119 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F4AC.
+        /// </summary>
+        internal static string emoji_speech_balloon {
+            get {
+                return ResourceManager.GetString("emoji_speech_balloon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6A4.
+        /// </summary>
+        internal static string emoji_speedboat {
+            get {
+                return ResourceManager.GetString("emoji_speedboat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F577.
+        /// </summary>
+        internal static string emoji_spider {
+            get {
+                return ResourceManager.GetString("emoji_spider", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F578.
+        /// </summary>
+        internal static string emoji_spider_web {
+            get {
+                return ResourceManager.GetString("emoji_spider_web", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F41A.
+        /// </summary>
+        internal static string emoji_spiral_shell {
+            get {
+                return ResourceManager.GetString("emoji_spiral_shell", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F944.
+        /// </summary>
+        internal static string emoji_spoon {
+            get {
+                return ResourceManager.GetString("emoji_spoon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F699.
+        /// </summary>
+        internal static string emoji_sport_utility_vehicle {
+            get {
+                return ResourceManager.GetString("emoji_sport_utility_vehicle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3C5.
+        /// </summary>
+        internal static string emoji_sports_medal {
+            get {
+                return ResourceManager.GetString("emoji_sports_medal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F433.
+        /// </summary>
+        internal static string emoji_spouting_whale {
+            get {
+                return ResourceManager.GetString("emoji_spouting_whale", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F991.
+        /// </summary>
+        internal static string emoji_squid {
+            get {
+                return ResourceManager.GetString("emoji_squid", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F61D.
         /// </summary>
-        internal static string emoji_squinting_face_with_tongue {
+        internal static string emoji_squinting_face_tongue {
             get {
-                return ResourceManager.GetString("emoji_squinting_face_with_tongue", resourceCulture);
+                return ResourceManager.GetString("emoji_squinting_face_tongue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3DF.
+        /// </summary>
+        internal static string emoji_stadium {
+            get {
+                return ResourceManager.GetString("emoji_stadium", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002B50.
+        /// </summary>
+        internal static string emoji_star {
+            get {
+                return ResourceManager.GetString("emoji_star", resourceCulture);
             }
         }
         
@@ -1213,11 +4957,380 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F689.
+        /// </summary>
+        internal static string emoji_station {
+            get {
+                return ResourceManager.GetString("emoji_station", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F5FD.
+        /// </summary>
+        internal static string emoji_Statue_of_Liberty {
+            get {
+                return ResourceManager.GetString("emoji_Statue_of_Liberty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F35C.
+        /// </summary>
+        internal static string emoji_steaming_bowl {
+            get {
+                return ResourceManager.GetString("emoji_steaming_bowl", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6D1.
+        /// </summary>
+        internal static string emoji_stop_sign {
+            get {
+                return ResourceManager.GetString("emoji_stop_sign", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000023F1.
+        /// </summary>
+        internal static string emoji_stopwatch {
+            get {
+                return ResourceManager.GetString("emoji_stopwatch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F353.
+        /// </summary>
+        internal static string emoji_strawberry {
+            get {
+                return ResourceManager.GetString("emoji_strawberry", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F959.
+        /// </summary>
+        internal static string emoji_stuffed_flatbread {
+            get {
+                return ResourceManager.GetString("emoji_stuffed_flatbread", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002600.
+        /// </summary>
+        internal static string emoji_sun {
+            get {
+                return ResourceManager.GetString("emoji_sun", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026C5.
+        /// </summary>
+        internal static string emoji_sun_behind_cloud {
+            get {
+                return ResourceManager.GetString("emoji_sun_behind_cloud", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F325.
+        /// </summary>
+        internal static string emoji_sun_behind_large_cloud {
+            get {
+                return ResourceManager.GetString("emoji_sun_behind_large_cloud", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F326.
+        /// </summary>
+        internal static string emoji_sun_behind_rain_cloud {
+            get {
+                return ResourceManager.GetString("emoji_sun_behind_rain_cloud", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F324.
+        /// </summary>
+        internal static string emoji_sun_behind_small_cloud {
+            get {
+                return ResourceManager.GetString("emoji_sun_behind_small_cloud", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F31E.
+        /// </summary>
+        internal static string emoji_sun_face {
+            get {
+                return ResourceManager.GetString("emoji_sun_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F33B.
+        /// </summary>
+        internal static string emoji_sunflower {
+            get {
+                return ResourceManager.GetString("emoji_sunflower", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F305.
+        /// </summary>
+        internal static string emoji_sunrise {
+            get {
+                return ResourceManager.GetString("emoji_sunrise", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F304.
+        /// </summary>
+        internal static string emoji_sunrise_over_mountains {
+            get {
+                return ResourceManager.GetString("emoji_sunrise_over_mountains", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F307.
+        /// </summary>
+        internal static string emoji_sunset {
+            get {
+                return ResourceManager.GetString("emoji_sunset", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F363.
+        /// </summary>
+        internal static string emoji_sushi {
+            get {
+                return ResourceManager.GetString("emoji_sushi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F69F.
+        /// </summary>
+        internal static string emoji_suspension_railway {
+            get {
+                return ResourceManager.GetString("emoji_suspension_railway", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9A2.
+        /// </summary>
+        internal static string emoji_swan {
+            get {
+                return ResourceManager.GetString("emoji_swan", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F4A6.
+        /// </summary>
+        internal static string emoji_sweat_droplets {
+            get {
+                return ResourceManager.GetString("emoji_sweat_droplets", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F54D.
+        /// </summary>
+        internal static string emoji_synagogue {
+            get {
+                return ResourceManager.GetString("emoji_synagogue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F996.
+        /// </summary>
+        internal static string emoji_T_Rex {
+            get {
+                return ResourceManager.GetString("emoji_T_Rex", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F32E.
+        /// </summary>
+        internal static string emoji_taco {
+            get {
+                return ResourceManager.GetString("emoji_taco", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F961.
+        /// </summary>
+        internal static string emoji_takeout_box {
+            get {
+                return ResourceManager.GetString("emoji_takeout_box", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F38B.
+        /// </summary>
+        internal static string emoji_tanabata_tree {
+            get {
+                return ResourceManager.GetString("emoji_tanabata_tree", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F34A.
+        /// </summary>
+        internal static string emoji_tangerine {
+            get {
+                return ResourceManager.GetString("emoji_tangerine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F695.
+        /// </summary>
+        internal static string emoji_taxi {
+            get {
+                return ResourceManager.GetString("emoji_taxi", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F375.
+        /// </summary>
+        internal static string emoji_teacup_without_handle {
+            get {
+                return ResourceManager.GetString("emoji_teacup_without_handle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F559.
+        /// </summary>
+        internal static string emoji_ten_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_ten_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F565.
+        /// </summary>
+        internal static string emoji_ten_thirty {
+            get {
+                return ResourceManager.GetString("emoji_ten_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3BE.
+        /// </summary>
+        internal static string emoji_tennis {
+            get {
+                return ResourceManager.GetString("emoji_tennis", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026FA.
+        /// </summary>
+        internal static string emoji_tent {
+            get {
+                return ResourceManager.GetString("emoji_tent", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F321.
+        /// </summary>
+        internal static string emoji_thermometer {
+            get {
+                return ResourceManager.GetString("emoji_thermometer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F914.
         /// </summary>
         internal static string emoji_thinking_face {
             get {
                 return ResourceManager.GetString("emoji_thinking_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F4AD.
+        /// </summary>
+        internal static string emoji_thought_balloon {
+            get {
+                return ResourceManager.GetString("emoji_thought_balloon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F552.
+        /// </summary>
+        internal static string emoji_three_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_three_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F55E.
+        /// </summary>
+        internal static string emoji_three_thirty {
+            get {
+                return ResourceManager.GetString("emoji_three_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3AB.
+        /// </summary>
+        internal static string emoji_ticket {
+            get {
+                return ResourceManager.GetString("emoji_ticket", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F405.
+        /// </summary>
+        internal static string emoji_tiger {
+            get {
+                return ResourceManager.GetString("emoji_tiger", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F42F.
+        /// </summary>
+        internal static string emoji_tiger_face {
+            get {
+                return ResourceManager.GetString("emoji_tiger_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000023F2.
+        /// </summary>
+        internal static string emoji_timer_clock {
+            get {
+                return ResourceManager.GetString("emoji_timer_clock", resourceCulture);
             }
         }
         
@@ -1231,11 +5344,236 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F5FC.
+        /// </summary>
+        internal static string emoji_Tokyo_tower {
+            get {
+                return ResourceManager.GetString("emoji_Tokyo_tower", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F345.
+        /// </summary>
+        internal static string emoji_tomato {
+            get {
+                return ResourceManager.GetString("emoji_tomato", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F445.
+        /// </summary>
+        internal static string emoji_tongue {
+            get {
+                return ResourceManager.GetString("emoji_tongue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9B7.
+        /// </summary>
+        internal static string emoji_tooth {
+            get {
+                return ResourceManager.GetString("emoji_tooth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F32A.
+        /// </summary>
+        internal static string emoji_tornado {
+            get {
+                return ResourceManager.GetString("emoji_tornado", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F69C.
+        /// </summary>
+        internal static string emoji_tractor {
+            get {
+                return ResourceManager.GetString("emoji_tractor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F686.
+        /// </summary>
+        internal static string emoji_train {
+            get {
+                return ResourceManager.GetString("emoji_train", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F68A.
+        /// </summary>
+        internal static string emoji_tram {
+            get {
+                return ResourceManager.GetString("emoji_tram", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F68B.
+        /// </summary>
+        internal static string emoji_tram_car {
+            get {
+                return ResourceManager.GetString("emoji_tram_car", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F68E.
+        /// </summary>
+        internal static string emoji_trolleybus {
+            get {
+                return ResourceManager.GetString("emoji_trolleybus", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3C6.
+        /// </summary>
+        internal static string emoji_trophy {
+            get {
+                return ResourceManager.GetString("emoji_trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F379.
+        /// </summary>
+        internal static string emoji_tropical_drink {
+            get {
+                return ResourceManager.GetString("emoji_tropical_drink", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F420.
+        /// </summary>
+        internal static string emoji_tropical_fish {
+            get {
+                return ResourceManager.GetString("emoji_tropical_fish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F337.
+        /// </summary>
+        internal static string emoji_tulip {
+            get {
+                return ResourceManager.GetString("emoji_tulip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F943.
+        /// </summary>
+        internal static string emoji_tumbler_glass {
+            get {
+                return ResourceManager.GetString("emoji_tumbler_glass", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F983.
+        /// </summary>
+        internal static string emoji_turkey {
+            get {
+                return ResourceManager.GetString("emoji_turkey", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F422.
+        /// </summary>
+        internal static string emoji_turtle {
+            get {
+                return ResourceManager.GetString("emoji_turtle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F55B.
+        /// </summary>
+        internal static string emoji_twelve_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_twelve_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F567.
+        /// </summary>
+        internal static string emoji_twelve_thirty {
+            get {
+                return ResourceManager.GetString("emoji_twelve_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F495.
         /// </summary>
         internal static string emoji_two_hearts {
             get {
                 return ResourceManager.GetString("emoji_two_hearts", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F42B.
+        /// </summary>
+        internal static string emoji_two_hump_camel {
+            get {
+                return ResourceManager.GetString("emoji_two_hump_camel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F551.
+        /// </summary>
+        internal static string emoji_two_o_clock {
+            get {
+                return ResourceManager.GetString("emoji_two_o_clock", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F55D.
+        /// </summary>
+        internal static string emoji_two_thirty {
+            get {
+                return ResourceManager.GetString("emoji_two_thirty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002602.
+        /// </summary>
+        internal static string emoji_umbrella {
+            get {
+                return ResourceManager.GetString("emoji_umbrella", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 000026F1.
+        /// </summary>
+        internal static string emoji_umbrella_on_ground {
+            get {
+                return ResourceManager.GetString("emoji_umbrella_on_ground", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 00002614.
+        /// </summary>
+        internal static string emoji_umbrella_rain_drops {
+            get {
+                return ResourceManager.GetString("emoji_umbrella_rain_drops", resourceCulture);
             }
         }
         
@@ -1249,11 +5587,128 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F984.
+        /// </summary>
+        internal static string emoji_unicorn {
+            get {
+                return ResourceManager.GetString("emoji_unicorn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F643.
         /// </summary>
         internal static string emoji_upside_down_face {
             get {
                 return ResourceManager.GetString("emoji_upside_down_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F6A6.
+        /// </summary>
+        internal static string emoji_vertical_traffic_light {
+            get {
+                return ResourceManager.GetString("emoji_vertical_traffic_light", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F30B.
+        /// </summary>
+        internal static string emoji_volcano {
+            get {
+                return ResourceManager.GetString("emoji_volcano", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F3D0.
+        /// </summary>
+        internal static string emoji_volleyball {
+            get {
+                return ResourceManager.GetString("emoji_volleyball", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9C7.
+        /// </summary>
+        internal static string emoji_waffle {
+            get {
+                return ResourceManager.GetString("emoji_waffle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F318.
+        /// </summary>
+        internal static string emoji_waning_crescent_moon {
+            get {
+                return ResourceManager.GetString("emoji_waning_crescent_moon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F316.
+        /// </summary>
+        internal static string emoji_waning_gibbous_moon {
+            get {
+                return ResourceManager.GetString("emoji_waning_gibbous_moon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0000231A.
+        /// </summary>
+        internal static string emoji_watch {
+            get {
+                return ResourceManager.GetString("emoji_watch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F403.
+        /// </summary>
+        internal static string emoji_water_buffalo {
+            get {
+                return ResourceManager.GetString("emoji_water_buffalo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F30A.
+        /// </summary>
+        internal static string emoji_water_wave {
+            get {
+                return ResourceManager.GetString("emoji_water_wave", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F349.
+        /// </summary>
+        internal static string emoji_watermelon {
+            get {
+                return ResourceManager.GetString("emoji_watermelon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F312.
+        /// </summary>
+        internal static string emoji_waxing_crescent_moon {
+            get {
+                return ResourceManager.GetString("emoji_waxing_crescent_moon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F314.
+        /// </summary>
+        internal static string emoji_waxing_gibbous_moon {
+            get {
+                return ResourceManager.GetString("emoji_waxing_gibbous_moon", resourceCulture);
             }
         }
         
@@ -1276,11 +5731,74 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F492.
+        /// </summary>
+        internal static string emoji_wedding {
+            get {
+                return ResourceManager.GetString("emoji_wedding", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F40B.
+        /// </summary>
+        internal static string emoji_whale {
+            get {
+                return ResourceManager.GetString("emoji_whale", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F4AE.
+        /// </summary>
+        internal static string emoji_white_flower {
+            get {
+                return ResourceManager.GetString("emoji_white_flower", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F90D.
         /// </summary>
         internal static string emoji_white_heart {
             get {
                 return ResourceManager.GetString("emoji_white_heart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F940.
+        /// </summary>
+        internal static string emoji_wilted_flower {
+            get {
+                return ResourceManager.GetString("emoji_wilted_flower", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F390.
+        /// </summary>
+        internal static string emoji_wind_chime {
+            get {
+                return ResourceManager.GetString("emoji_wind_chime", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F32C.
+        /// </summary>
+        internal static string emoji_wind_face {
+            get {
+                return ResourceManager.GetString("emoji_wind_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F377.
+        /// </summary>
+        internal static string emoji_wine_glass {
+            get {
+                return ResourceManager.GetString("emoji_wine_glass", resourceCulture);
             }
         }
         
@@ -1296,9 +5814,18 @@ namespace Codemoji.Properties {
         /// <summary>
         ///   Looks up a localized string similar to 0001F61C.
         /// </summary>
-        internal static string emoji_winking_face_with_tongue {
+        internal static string emoji_winking_face_tongue {
             get {
-                return ResourceManager.GetString("emoji_winking_face_with_tongue", resourceCulture);
+                return ResourceManager.GetString("emoji_winking_face_tongue", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F43A.
+        /// </summary>
+        internal static string emoji_wolf {
+            get {
+                return ResourceManager.GetString("emoji_wolf", resourceCulture);
             }
         }
         
@@ -1312,11 +5839,29 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F5FA.
+        /// </summary>
+        internal static string emoji_world_map {
+            get {
+                return ResourceManager.GetString("emoji_world_map", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F61F.
         /// </summary>
         internal static string emoji_worried_face {
             get {
                 return ResourceManager.GetString("emoji_worried_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F381.
+        /// </summary>
+        internal static string emoji_wrapped_gift {
+            get {
+                return ResourceManager.GetString("emoji_wrapped_gift", resourceCulture);
             }
         }
         
@@ -1348,11 +5893,38 @@ namespace Codemoji.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to 0001F993.
+        /// </summary>
+        internal static string emoji_zebra {
+            get {
+                return ResourceManager.GetString("emoji_zebra", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to 0001F910.
         /// </summary>
         internal static string emoji_zipper_mouth_face {
             get {
                 return ResourceManager.GetString("emoji_zipper_mouth_face", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F9DF.
+        /// </summary>
+        internal static string emoji_zombie {
+            get {
+                return ResourceManager.GetString("emoji_zombie", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 0001F4A4.
+        /// </summary>
+        internal static string emoji_zzz {
+            get {
+                return ResourceManager.GetString("emoji_zzz", resourceCulture);
             }
         }
     }
