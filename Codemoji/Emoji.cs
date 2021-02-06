@@ -15,10 +15,22 @@ namespace Codemoji {
             return Use(options:null, names);
         }
 
+        /// <summary>
+        /// Gets one or more emojis, find names in given dictionary first.
+        /// </summary>
+        /// <param name="emojiDictionary">EmojiDictionary object.</param>
+        /// <param name="names">Names of emojis.</param>
+        /// <returns>String of successfully converted emoji(s)</returns>
         public static string Use(EmojiDictionary emojiDictionary, params string[] names) {
-            return Use(new EmojiOptions(emojiDictionary), names);
+            return Use(new EmojiOptions {Dictionary = emojiDictionary}, names);
         }
 
+        /// <summary>
+        /// Gets one or more emojis with given options.
+        /// </summary>
+        /// <param name="options">EmojiOptions object, includes all options.</param>
+        /// <param name="names">Emoji names.</param>
+        /// <returns>String of successfully converted emoji(s).</returns>
         public static string Use(EmojiOptions options, params string[] names) {
             string returnString = null;
             var _options = options ?? new EmojiOptions();

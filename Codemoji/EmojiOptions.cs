@@ -1,20 +1,21 @@
 ﻿namespace Codemoji {
     public class EmojiOptions {
-        public EmojiOptions() {
-            UseCustomNames = false;
+        
+        private EmojiDictionary _dictionary;
+        public EmojiDictionary Dictionary {
+            get => _dictionary;
+
+            set {
+                _dictionary = value;
+                UseCustomNames = true;
+            }
         }
 
-        public EmojiOptions(string dictionary) {
-            Dictionary = new EmojiDictionary(dictionary);
-            UseCustomNames = true;
-        }
-
-        public EmojiOptions(EmojiDictionary emojiDictionary) {
-            Dictionary = emojiDictionary;
-            UseCustomNames = true;
-        }
-
-        public EmojiDictionary Dictionary { get; set; }
-        internal bool UseCustomNames { get; set; }
+        internal bool UseCustomNames { get; private set; }
+        
+        /// <summary>
+        /// Gets or sets whether replace all hyphens to underscores or not.
+        /// </summary>
+        public bool UseHyphens { get; set; }
     }
 }
